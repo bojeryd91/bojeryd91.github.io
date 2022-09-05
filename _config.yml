@@ -4,3 +4,6 @@ plugins:
 
 title: Jesper Bojeryd
 description: This is testing out a new website
+
+show_downloads: false
+#google_analytics: [Your Google Analytics tracking ID]
