@@ -4,4 +4,8 @@ toc: false
 comments: false # See posts
 ---
 Testing
-<object data="/CV.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="https://github.com/bojeryd91/CV/raw/main/CV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/bojeryd91/CV/raw/main/CV.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/bojeryd91/CV/raw/main/CV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
