@@ -7,8 +7,6 @@ My research interests lie in empirical macroeconomics in general, and I am pursu
 
 Further down the road, I wish to take micro-proven facts and incorporate them into quantitative macro models. The goal is to better understand the interaction of frictions, macro-level shocks, and credit markets in the aggregated economy.
 
-You can reach me at jesperbojeryd (at) ucla.edu and I share a lot of my work on Github: https://github.com/bojeryd91
-
 ## Ongoing projects:
 ### The Housing Wealth Effect: Quasi-Experimental Evidence, with Dany Kessel, Björn Tyrefors, and Roine Vestman
 We exploit a quasi-experiment to provide new evidence on the magnitude of the housing wealth effect. We estimate an immediate shock of approximately –19% to house prices close to one of Stockholm’s airports after its operations were unexpectedly continued. This source of price variation is ideal for identifying housing wealth effects since it is unrelated to macroeconomic conditions. We estimate a micro elasticity of 0.40 among purchasers of new cars. The implied aggregate MPC on cars is however only 0.14 cents per dollar. The response is entirely concentrated to homeowners with a loan-to-value ratio between 0.6 and 0.8.
