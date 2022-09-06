@@ -9,6 +9,8 @@ email: jesperbojeryd@ucla.edu
 twitter_username: bojerydjesper
 github_username: bojeryd91
 
+font_heading: "'Roboto Slab', Helvetica, Arial, sans-serif" # A test
+
 colors:
    links: "#990012"                     # Color for links: use a readable color that contrasts well with dark text
   banner: "#990012"                     # Background color for page banners: use color that contrasts well with white
