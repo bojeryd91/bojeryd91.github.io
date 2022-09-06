@@ -12,4 +12,4 @@ My Swedish lastname turns out to be difficult to pronounce, so here’s a guide 
 
 **Advanced level:** Split up by Bɜ-yɛ-reed, where Bɜ is as in ''bird''
 
-Jesper is pronounced Yes-per, as in ''yes**p**erday'' but I don't mind **J**esper.
+Jesper is pronounced Yes-per, as in ''yes**p**erday'' -- but I don't mind **J**esper.
