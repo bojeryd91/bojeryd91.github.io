@@ -9,6 +9,7 @@ email: jesperbojeryd@ucla.edu
 twitter_username: bojerydjesper
 github_username: bojeryd91
 
+font:         "'Noto Sans', Helvetica, Arial, sans-serif"   # A test
 font_heading: "'Roboto Slab', Helvetica, Arial, sans-serif" # A test
 
 colors:
