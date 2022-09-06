@@ -1,1 +1,5 @@
 remote_theme: ankitsultana/researcher@gem
+
+nav:
+ - name: "About"
+   link: "/about/"
