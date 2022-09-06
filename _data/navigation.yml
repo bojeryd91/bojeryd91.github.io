@@ -2,5 +2,7 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
+- text: Resume
+  href: https://github.com/bojeryd91/CV/blob/main/CV.pdf
 - text: About
   href: /about/

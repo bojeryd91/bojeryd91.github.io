@@ -1,6 +1,6 @@
 remote_theme: peterdesmet/petridish@2.0
 
-title: Jesper Bojeryd
+title: Jesper Böjeryd
 description: This is testing out a new website
 
 logo: /assets/compressed.jpg
@@ -9,9 +9,12 @@ email: jesperbojeryd@ucla.edu
 twitter_username: bojerydjesper
 github_username: bojeryd91
 
+font:         "'Noto Sans', Helvetica, Arial, sans-serif"   # A test
+font_heading: "'Roboto Slab', Helvetica, Arial, sans-serif" # A test
+
 colors:
-  links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
-  banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
-  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
+   links: "#CB3244"                     # Color for links: use a readable color that contrasts well with dark text
+  banner: "#CB3244"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#CB3244"                     # Background color for footer: use color that contrasts well with white
 font_serif: true                        # Font type for page content: serif (default) or slightly smaller sans-serif
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
