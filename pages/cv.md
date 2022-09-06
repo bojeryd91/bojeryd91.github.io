@@ -1,4 +1,5 @@
 ---
+title: CV
 permalink: /cv/
 toc: false
 comments: false # See posts
