@@ -2,3 +2,9 @@ remote_theme: peterdesmet/petridish@2.0
 
 title: Jesper Bojeryd
 description: This is testing out a new website
+
+logo: /assets/compressed.jpg
+
+email: bojeryd91@gmail.com
+twitter_username: bojerydjesper
+github_username: bojeryd91
