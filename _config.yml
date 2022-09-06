@@ -10,12 +10,6 @@ twitter_username: bojerydjesper
 github_username: bojeryd91
 #linkedin_username: jesperbojeryd
 
-#font:         "'Noto Sans', Helvetica, Arial, sans-serif"   # A test
-#font_heading: "'Roboto Slab', Helvetica, Arial, sans-serif" # A test
-
-font:         "'Noto Sans', Helvetica, Arial, sans-serif"   # A test
-font_heading: "'Roboto Slab', Helvetica, Arial, sans-serif" # A test
-
 colors:
    links: "#CB3244"                     # Color for links: use a readable color that contrasts well with dark text
   banner: "#CB3244"                     # Background color for page banners: use color that contrasts well with white
