@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Jesper Böjeryd
-description: "For those who wonder: \[Yesperday Bɜ-yɛ-reed\]"
+description: "For those who wonder: [Yesperday Bɜ-yɛ-reed]"
 permalink: /
 toc: false
 ---
