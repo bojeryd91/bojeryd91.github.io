@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Jesper Böjeryd
-description: Uses an easy to customize theme for its website
+description: \[Text\]
 permalink: /
 ---
 
