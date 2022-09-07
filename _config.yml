@@ -2,7 +2,6 @@ remote_theme: peterdesmet/petridish@2.0
 
 title: Jesper Böjeryd
 description: A text
-baseurl:     /pages
 
 logo: /assets/compressed.jpg
 
