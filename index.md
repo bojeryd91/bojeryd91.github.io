@@ -1,5 +1,6 @@
 ---
 title: Jesper Böjeryd
+description: For those who wonder&#58;
 permalink: /
 toc: false
 ---
