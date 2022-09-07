@@ -1,8 +1,6 @@
 ---
-layout: home
 title: Jesper Böjeryd
 description: For those wondering: Yesper-day Bɜ-yɛ-reed
-permalink: /
 ---
 
 **I'm just trying out a new design for a website**
