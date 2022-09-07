@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Jesper Böjeryd
-description: For those wondering: [Yesper-day Bɜ-yɛ-reed](/about/)
+description: For those wondering: Yesper-day Bɜ-yɛ-reed
 permalink: /
 ---
 
