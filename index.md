@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Jesper Böjeryd
-description: For those who wonder: \[Yesperday Bojeryd\]
+description: For those who wonder: 
 permalink: /
 toc: false
 comments: false # See posts
