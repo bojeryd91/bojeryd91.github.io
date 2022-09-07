@@ -1,6 +1,7 @@
 ---
+layout: home
 title: Jesper Böjeryd
-description: For those who wonder: Text
+description: For those who wonder: Text \[Hej\]
 ---
 
 Testing
