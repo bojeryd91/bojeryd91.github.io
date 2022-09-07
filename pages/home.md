@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Jesper Böjeryd
-description: For those who wonder&#58;
+description: "For those who wonder:"
 permalink: /
 toc: false
 ---
