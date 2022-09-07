@@ -2,6 +2,7 @@ remote_theme: peterdesmet/petridish@2.0
 
 title: Jesper Böjeryd
 description: This is testing out a new website
+baseurl:     "/website"
 
 logo: /assets/compressed.jpg
 
