@@ -1,6 +1,6 @@
 ---
 title: Jesper Böjeryd
-description: For those who wonder:
+description: "For those who wonder:"
 permalink: /
 toc: false
 ---
