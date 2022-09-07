@@ -1,10 +1,10 @@
 ---
+layout: home
 title: Jesper Böjeryd
 description: For those who wonder&#58;
 permalink: /
 toc: false
 ---
-Index2
 
 **I'm just trying out a new design for a website**
 
