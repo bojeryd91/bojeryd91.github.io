@@ -1,9 +1,10 @@
 ---
+layout: home
 title: Jesper Böjeryd
 description: For those who wonder: 
 permalink: /
 ---
-Index
+Index2
 
 **I'm just trying out a new design for a website**
 
