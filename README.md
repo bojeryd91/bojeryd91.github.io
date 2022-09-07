@@ -1,8 +1,3 @@
----
-title: Jesper Böjeryd
-description: For those wondering: Yesper-day Bɜ-yɛ-reed
----
-
 **I'm just trying out a new design for a website**
 
 I am a 5th year PhD student at UCLA, with a previous history as a research assistant at Swedish House of Finance at Stockholm School of Economics and the Riksbank (the Swedish Central Bank).
