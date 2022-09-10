@@ -1,11 +1,9 @@
 ---
-title: About me
-subtitle: Is this necessary?
+title: Contact
+subtitle: Journal comes with a built-in contact form, that's free and easy to set up.
 description: A stunning personal blog Jekyll theme with an image-focused design.
 featured_image: /images/demo/demo-portrait.jpg
 ---
-
-![](/images/demo/demo-landscape.jpg)
 
 I'm a Swedish expat living in Los Angeles who spends my free time hiking and cooking. For longer breaks, I go to Stockholm, its archipelago, and my hometown Karlstad. I used to have many hobbies (volunteer work as an instructor in mathematics, member of marching bands and a symphonic orchestra, playwright), but during PhD life, I focus on staying in touch with friends and nature, exercising, trekking, and occasionally playing the trombone.
 
