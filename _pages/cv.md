@@ -1,6 +1,6 @@
 ---
+layout: page
 title: CV
-permalink: /cv/
 ---
 
 <a href="../CV.pdf" download>Download CV</a>
