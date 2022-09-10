@@ -1,0 +1,18 @@
+remote_theme: peterdesmet/petridish@2.0
+
+title: Jesper Böjeryd
+description: A text
+
+logo: /assets/compressed.jpg
+
+email: bojeryd91@gmail.com
+twitter_username: bojerydjesper
+github_username: bojeryd91
+linkedin_username: jesperbojeryd
+
+colors:
+  links: "#993333"                      # Color for links: use a readable color that contrasts well with dark text
+  banner: "#993333"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#993333"                     # Background color for footer: use color that contrasts well with white
+font_serif: true                        # Font type for page content: serif (default) or slightly smaller sans-serif
+rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
