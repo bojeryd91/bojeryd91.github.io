@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Jesper Böjeryd
 subtitle: "For those who wonder: [Yesper(-day) Bɜ-yɛ-reed]"
 permalink: /
