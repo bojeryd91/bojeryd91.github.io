@@ -1,16 +1,35 @@
 ---
-title: Contact
-subtitle: Journal comes with a built-in contact form, that's free and easy to set up.
+title: About Journal
+subtitle: A stunning personal blog Jekyll theme with an image-focused design.
 description: A stunning personal blog Jekyll theme with an image-focused design.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-I'm a Swedish expat living in Los Angeles who spends my free time hiking and cooking. For longer breaks, I go to Stockholm, its archipelago, and my hometown Karlstad. I used to have many hobbies (volunteer work as an instructor in mathematics, member of marching bands and a symphonic orchestra, playwright), but during PhD life, I focus on staying in touch with friends and nature, exercising, trekking, and occasionally playing the trombone.
+![](/images/demo/demo-landscape.jpg)
 
-My Swedish lastname turns out to be difficult to pronounce, so here’s a guide to an English approximation.
+## Features
 
-**Intermediate level:** Split it up into Boy-ɛ-reed, where ɛ is as in ''sell''.
+Journal is packed with powerful features to showcase your work:
 
-**Advanced level:** Split up by Bɜ-yɛ-reed, where Bɜ is as in ''bird''
+* Beautiful, minimal design
+* Fixed sidebar images that animate as you browse
+* Single column post layout
+* Responsive – works perfectly on all devices
+* Portfolio/projects post type to show your work
+* Blog with pagination
+* Sleek Ajax navigation and page transitions
+* Unique 'gallery' feature for image grids and carousels
+* Built-in contact form with Formspree integration
+* Full markdown support and code highlighting
+* Social media icons
+* Fast page rendering
+* Built with SEO best practices in mind
+* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
+* Works with GitHub Pages
+* Updated and supported by the developers
 
-Jesper is pronounced Yes-per, as in ''yes**p**erday'' -- but I don't mind **J**esper.
+## Get Index
+
+Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
+
+<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
