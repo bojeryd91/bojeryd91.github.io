@@ -10,6 +10,8 @@ header_settings:
 
 menu_settings:
   menu_items:
+    - home:  'Home'
+      url: '/main_page/'
     - title: 'CV'
       url: '/cv/'
     - title: 'About'
