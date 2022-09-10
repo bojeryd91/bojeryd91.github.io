@@ -1,7 +1,7 @@
 ---
 layout: page
-title: A stunning personal blog Jekyll theme
-description: Journal is a stunning personal blog Jekyll theme with an image-focused design.
+title: Jesper Böjeryd
+description: This is Jesper Böjeryds personal webpage for research.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
