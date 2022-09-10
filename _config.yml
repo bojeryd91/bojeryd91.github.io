@@ -1,7 +1,7 @@
 site: Jesper Böjeryd
 
 url:
-baseurl:
+baseurl: "/"
 
 collections:
   pages:
