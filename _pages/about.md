@@ -1,5 +1,4 @@
 ---
-layout: page
 title: About me
 subtitle: Is this necessary?
 description: A stunning personal blog Jekyll theme with an image-focused design.
