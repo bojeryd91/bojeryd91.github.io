@@ -1,6 +1,7 @@
 ---
 title: About me
-description: A description to edit later
+subtitle: Is this necessary?
+description: A stunning personal blog Jekyll theme with an image-focused design.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
