@@ -1,8 +1,6 @@
 ---
 title: CV
 permalink: /cv/
-toc: false
-comments: false # See posts
 ---
 
 <a href="../CV.pdf" download>Download CV</a>
