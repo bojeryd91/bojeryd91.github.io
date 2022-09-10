@@ -1,9 +1,8 @@
 ---
-layout: home
+layout: page
 title: Jesper Böjeryd
-description: "For those who wonder: [Yesper(-day) Bɜ-yɛ-reed]"
+subtitle: "For those who wonder: [Yesper(-day) Bɜ-yɛ-reed]"
 permalink: /
-toc: false
 ---
 
 **I'm just trying out a new design for a website**
@@ -25,4 +24,3 @@ Using the universe of car transactions matched to annual census data in Sweden, 
 
 ### Heterogeneous effects of QE on corporate bonds and firm outcomes, with Adam Baybutt
 Does lowering corporate bond rates by QE in itself stimulate firm investment and other real outcomes? By an event-time approach with TRACE data, we try to disentangle channels of large-scale asset purchases to the firm side of the U.S. economy.
-
