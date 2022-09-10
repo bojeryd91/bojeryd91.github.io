@@ -4,6 +4,7 @@ title: CV
 ---
 
 <a href="../CV.pdf" download>Download CV</a>
+<div class="contact-form">
 <p align="center">
     <object data="../CV.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="700px" height="700px">
     <embed src="../CV.pdf#toolbar=0&navpanes=0&scrollbar=0" width="700px" height="700px">
@@ -11,3 +12,5 @@ title: CV
     </embed>
     </object>
 </p>
+</div>
+
