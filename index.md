@@ -20,7 +20,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 	<div class="wrap">
 
-		{{ include_relative test.md }}
+		{% include_relative test.md %}
 
 	</div>
 
