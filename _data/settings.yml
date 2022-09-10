@@ -11,7 +11,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Home'
-      url: '../index/'
+      url: '/index/'
     - title: 'CV'
       url: '/cv/'
     - title: 'About'
