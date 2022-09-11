@@ -8,8 +8,8 @@ I'm a Swedish expat living in Los Angeles who spends my free time hiking and coo
 
 My Swedish family name turns out to be difficult to pronounce, so here’s a guide to an English approximation.
 
-<mark>**Intermediate level:**</mark> Split it up into Boy-ɛ-reed, where ɛ is as in ''sell''.
+**Intermediate level:** Split it up into Boy-ɛ-reed, where ɛ is as in ''sell''.
 
-<mark>**Advanced level:**</mark> Split up by Bɜ-yɛ-reed, where Bɜ is as in ''bird''
+**Advanced level:** Split up by Bɜ-yɛ-reed, where Bɜ is as in ''bird''
 
 Jesper is pronounced Yes-per, as in ''yes**p**erday'' -- but I don't mind **J**esper.
