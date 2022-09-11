@@ -59,16 +59,16 @@ social_settings:
   linkedin_url: 'https://www.linkedin.com/in/jesperbojeryd'
 
 color_settings:
-  background_color: '#ffffff'
-  background_alt_color: '#F5F7FA'
+  background_color: '#993333'
+  background_alt_color: '#993333'
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
-  text_light_color: '#ABB7B7'
-  accent_color: '#A2DED0'
-  border_color: '#dddddd'
+  text_light_color: '#77923A'
+  accent_color: '#77923A'
+  border_color: '#435F02'
   overlay_background_color: '#161B21'
   overlay_text_color: '#ffffff'
-  error_color: '#D64541'
+  error_color: '#993333'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Merriweather:300,400|Muli:400,400i,600" rel="stylesheet">'
