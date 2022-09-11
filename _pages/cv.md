@@ -12,7 +12,7 @@ description: My academic CV
     </object>
 </p>
 
-![](/CV.pdf)
+![CV.pdf](/CV.pdf)
 
 
 Here's a really neat custom feature we added – galleries:
