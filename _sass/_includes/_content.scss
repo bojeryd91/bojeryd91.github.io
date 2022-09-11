@@ -27,16 +27,16 @@
 		}
 
 		@include mq(laptop) {
-			max-width: 75%;
+			max-width: 90%;
 		}
 
 		@include mq(desktop) {
-			max-width: 70%;
+			max-width: 90%;
 		}
 	}
-	
+
 	h1 {
-		
+
 		@include mq(tabletp) {
 			white-space: pre-line;
 		}
@@ -77,11 +77,11 @@
 		}
 
 		@include mq(laptop) {
-			max-width: 75%;
+			max-width: 90%;
 		}
 
 		@include mq(desktop) {
-			max-width: 70%;
+			max-width: 90%;
 		}
 	}
 
@@ -106,11 +106,11 @@
 		}
 
 		@include mq(laptop) {
-			max-width: 75%;
+			max-width: 90%;
 		}
 
 		@include mq(desktop) {
-			max-width: 70%;
+			max-width: 90%;
 		}
 	}
 
@@ -156,11 +156,11 @@
 
 		@include mq(laptop) {
 			margin: 40px auto;
-			max-width: 75%;
+			max-width: 90%;
 		}
 
 		@include mq(desktop) {
-			max-width: 70%;
+			max-width: 90%;
 		}
 	}
 
@@ -227,7 +227,7 @@
 				padding: 20px;
 			}
 		}
-		
+
 		tr {
 
 			&:nth-child(2n) {
@@ -291,7 +291,7 @@
 					text-align: center;
 					color: $text-light-color;
 				}
-				
+
 				p {
 					display: inline;
 					max-width: 100%;
