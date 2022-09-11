@@ -34,6 +34,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, .h1 {
+	margin-top: 15px;
 	font-size: $h1-small;
 	font-weight: $h1-weight;
 	line-height: $h1-lineheight;
@@ -53,7 +54,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
-	margin-top: 40px;
+	margin-top: 10px;
 	font-size: $h2-small;
 	font-weight: $h2-weight;
 	line-height: $h2-lineheight;
