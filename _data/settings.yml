@@ -59,8 +59,8 @@ social_settings:
   linkedin_url: 'https://www.linkedin.com/in/jesperbojeryd'
 
 color_settings:
-  background_color: '#993333'
-  background_alt_color: '#993333'
+  background_color: '#ffffff'
+  background_alt_color: '#F5F7FA'
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#77923A'
