@@ -12,6 +12,8 @@ description: My academic CV
     </object>
 </p>
 
-<div class="gallery" data-columns="1" height="1500px">
-	<object data="CV.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" height="1500px">
-</div>
+<iframe src="CV.pdf#toolbar=0&navpanes=0&scrollbar=0" width="640" height="288" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<object data="CV.pdf" type="application/pdf">
+    <iframe src="https://docs.google.com/viewer?url=your_url_to_pdf&embedded=true"></iframe>
+</object>
