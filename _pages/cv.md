@@ -1,6 +1,7 @@
 ---
 title: CV
 description: My academic CV
+featured_image: /images/skiing.jpg
 ---
 
 <a href="CV.pdf" download>Download CV</a>. The below PDF cannot be viewed on certain devices.
