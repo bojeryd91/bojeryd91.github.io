@@ -18,6 +18,8 @@ menu_settings:
       url: '/about'
     - title: 'Contact'
       url: '/contact'
+    - title: 'CV'
+      url: '/cv'
 
 grid_settings:
   grid_spacing: 10
