@@ -11,3 +11,12 @@ description: My academic CV
     </embed>
     </object>
 </p>
+
+![](/CV.pdf)
+
+
+Here's a really neat custom feature we added – galleries:
+
+<div class="gallery" data-columns="1">
+	<object data="CV.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%">
+</div>
