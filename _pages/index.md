@@ -7,9 +7,9 @@ featured_image: /images/headshot1.jpg
 
 I am a 5th year PhD student at UCLA, with a previous history as a research assistant at Swedish House of Finance at Stockholm School of Economics and the Riksbank (the Swedish Central Bank).
 
-My research interests lie in empirical macroeconomics in general, and I am pursuing studies of micro-level heterogeneity and its effects on transmission channels and aggregate outcomes. I have many years of experience using household data in empirical micro, and I am currently exploring questions of monetary policy using these skills. I also do work in financial macroeconomics.
+My research interests lie in empirical macroeconomics in general, and I work with micro-level heterogeneity and exploit different exposures to shocks to disentangle transmission channels and explain aggregate outcomes. I have many years of experience using household data in empirical micro, and I am currently exploring questions of monetary policy and house prices using these skills. I also do work in financial macroeconomics.
 
-Further down the road, I wish to take micro-proven facts and incorporate them into quantitative macro models. The goal is to better understand the interaction of frictions, macro-level shocks, and credit markets in the aggregated economy.
+The empirical work is complemented with structural models, both to illustrate mechanisms but also to keep theory and empirical work together.
 
 
 #  Work in progress:
