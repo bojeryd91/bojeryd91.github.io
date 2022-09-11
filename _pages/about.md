@@ -1,7 +1,7 @@
 ---
 title: About me
 description: Information about my life outside research and academia
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/skiing.jpg
 ---
 
 I'm a Swedish expat living in Los Angeles who spends my free time hiking and cooking. For longer breaks, I go to Stockholm, its archipelago, and my hometown Karlstad. I used to have many hobbies (volunteer work as an instructor in mathematics, member of marching bands and a symphonic orchestra, playwright), but during PhD life, I focus on staying in touch with friends and nature, exercising, trekking, and occasionally playing the trombone.
