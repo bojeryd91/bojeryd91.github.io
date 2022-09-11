@@ -1,5 +1,6 @@
 ---
 title: Jesper Böjeryd
+subtitle: For those who wonder: \[Yesper(-day) Bɜ-yɛ-reed\]
 description: My research website.
 featured_image: /images/headshot1.jpg
 ---
