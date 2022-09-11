@@ -3,7 +3,7 @@ title: CV
 description: My academic CV
 ---
 
-<a href="CV.pdf" download>Download CV</a>. The PDF cannot be viewed below on certain devices.
+<a href="CV.pdf" download>Download CV</a>. The below PDF cannot be viewed on certain devices.
 <p align="center">
     <object data="CV.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="700px" height="700px">
     <embed src="CV.pdf#toolbar=0&navpanes=0&scrollbar=0" width="700px" height="700px">
