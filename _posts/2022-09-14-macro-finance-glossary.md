@@ -4,7 +4,7 @@ date: 2020-08-13 00:00:00
 excerpt: This is my ongoing project to collect a glossary of words and concepts used in macro-finance, *which I keep on forgetting*...
 ---
 
-I've done some searching online, but so far failed to find any glossary of frequently used macro-finance term. So I started to put together my own. In my experience, a good way to memorize concepts is to write them down in my own words; as I revisit my glossary, I edit definitions, correct my previous misconceptions, and try to condens the text. It's not only a good way to retain the meaning of the terms, but also a chance to practice my writing and reading skills. Enjoy! :)
+I've done some searching online, but so far failed to find any glossary of frequently used macro-finance term. So I started to put together my own. In my experience, a good way to memorize concepts is to write them down in my own words; as I revisit my glossary, I edit definitions, correct my previous misconceptions, and try to condens the text. It's not only a good way to retain the meaning of the terms, but also a chance to practice my writing and reading skills. Enjoy! 😊
 
 
 **Abnormal returns --** Difference between an asset's return and its expected return. A coarse estimate is to take the realized return of the asset and subtract the return of a benchmark index such as the S&amp;P 500. More sophisticated is to use the method of MacKinley, 1997 (Event Studies in Economics and Finance).
