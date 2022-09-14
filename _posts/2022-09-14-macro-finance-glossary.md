@@ -66,7 +66,7 @@ When a bigger investor in the money market "deposits" money in a bank, we say th
 
 
 
-"[...] for example when a home buyer fails to make a mortgage payment, or when a corporation or government fails to pay a bond which has reached maturity. A national or sovereign default is the failure or refusal of a government to repay its national debt. The biggest private default in history is Lehman Brothers with over \$600 billion when it filed for bankruptcy in 2008 and the biggest sovereign default is Greece with \$138 billion in March 2012."
+''[...] for example when a home buyer fails to make a mortgage payment, or when a corporation or government fails to pay a bond which has reached maturity. A national or sovereign default is the failure or refusal of a government to repay its national debt. The biggest private default in history is Lehman Brothers with over \$600 billion when it filed for bankruptcy in 2008 and the biggest sovereign default is Greece with $138 billion in March 2012.''
 
 
 
@@ -103,7 +103,6 @@ Reference: Bernanke, Gertler, and Gilchrist (1996).
 
 
 **Haircut** -- A measure of how much discount a creditor does on the collateral value for a loan. Often used in repo markets. An example: a borrower wants to make an overnight loan, using a 1-year T-bill currently traded at \$100 as collateral. The bank (creditor) says they will accept it as collateral worth \$80. The haircut is then 20%.
-
 
 
 $$ \text{haircut} = \frac{\text{market price} - \text{value as collateral}}{\text{market price}}.$$
@@ -242,7 +241,7 @@ An *ex-ante* Sharpe ratio uses expected return and predicted volatility, while t
 
 
 
-**Term premium** -- "the extra return that lenders demand to hold a longer-term bond instead of investing in a series of short-term securities (a new one-year security each year, for example). Typically, long-term yields are higher than short-term yields, implying that term premiums are usually positive (investors require extra compensation to hold longer-term bonds instead of short-term securities)." (<a href="https://www.brookings.edu/blog/ben-bernanke/2015/04/13/why-are-interest-rates-so-low-part-4-term-premiums/">see link</a>)
+**Term premium** -- "the extra return that lenders demand to hold a longer-term bond instead of investing in a series of short-term securities (a new one-year security each year, for example). Typically, long-term yields are higher than short-term yields, implying that term premiums are usually positive (investors require extra compensation to hold longer-term bonds instead of short-term securities)." ([see link](https://www.brookings.edu/blog/ben-bernanke/2015/04/13/why-are-interest-rates-so-low-part-4-term-premiums/))
 
 
 
