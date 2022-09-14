@@ -11,6 +11,8 @@ My research interests lie in empirical macroeconomics in general, and I work wit
 
 The empirical work is complemented with structural models, both to illustrate mechanisms but also to keep theory and empirical work together.
 
+**Contact:** jesper bojeryd at ucla dot edu
+
 ---
 
 #  Work in progress:
