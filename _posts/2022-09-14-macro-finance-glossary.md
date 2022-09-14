@@ -104,7 +104,7 @@ Reference: Bernanke, Gertler, and Gilchrist (1996).
 
 
 
-**Haircut** -- A measure of how much discount a creditor does on the collateral value for a loan. Often used in repo markets. An example: a borrower wants to make an overnight loan, using a 1-year T-bill currently traded at \$100 as collateral. The bank (creditor) says they will accept it as collateral worth \$80. The haircut is then 20%.
+**Haircut** -- A measure of how much discount a creditor does on the collateral value for a loan. Often used in repo markets. An example: a borrower wants to make an overnight loan, using a 1-year T-bill currently traded at $\$100$ as collateral. The bank (creditor) says they will accept it as collateral worth $\$80$. The haircut is then 20%.
 
 
 $$ \text{haircut} = \frac{\text{market price} - \text{value as collateral}}{\text{market price}}.$$
