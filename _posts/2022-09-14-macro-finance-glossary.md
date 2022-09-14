@@ -16,9 +16,11 @@ I've done some searching online, but so far failed to find any glossary of frequ
 **Capital –** The interpretation of capital depends on the context. In macro, it usually refers to some good that together with labor is used to produce output (e.g., capital can include tractors, computers, and houses). These goods can be refered to as *capital assets*. However, in finance, just *capital* often means the amount of financial assets held (e.g., cash, bonds, liquid stocks) or investments raised. It may be expanded to include a company's capital assets.
 
 
-**Capital Asset Pricing Model --** the **CAPM**. The model can be derived from several representative agent models, and boils down to that the expected return $E[R_i]$ of an asset $i$ is
+**Capital Asset Pricing Model --** the **CAPM**. The model can be derived from several representative agent models, and boils down to that the expected return $E[R_i]$ of an asset $i$ is 
+
 $$E[R_i] = R_f + \beta_i(E[R_M] - R_f),$$
-where $R_f$ is the risk-free rate, $\beta_i$ is asset $i$'s ``beta'', and $E[R_M]$ is the expected return of the market. 
+
+where $R_f$ is the risk-free rate, $\beta_i$ is asset $i$'s "beta", and $E[R_M]$ is the expected return of the market. 
 
 The coefficient $\beta_i$ reflects how the asset correlates with the overall market and how much risk it adds to the portfolio. If $\beta$ is positive, the asset has a higher expected return when the overall market's expected return increases. Assets with negative $\beta$ react in the opposite direction of markets; in a recession when markets are falling, negative-$\beta$ assets increase in value because they are expected to yield higher returns.
 
@@ -66,7 +68,7 @@ When a bigger investor in the money market "deposits" money in a bank, we say th
 
 
 
-''[...] for example when a home buyer fails to make a mortgage payment, or when a corporation or government fails to pay a bond which has reached maturity. A national or sovereign default is the failure or refusal of a government to repay its national debt. The biggest private default in history is Lehman Brothers with over \$600 billion when it filed for bankruptcy in 2008 and the biggest sovereign default is Greece with $138 billion in March 2012.''
+"[...] for example when a home buyer fails to make a mortgage payment, or when a corporation or government fails to pay a bond which has reached maturity. A national or sovereign default is the failure or refusal of a government to repay its national debt. The biggest private default in history is Lehman Brothers with over \$600 billion when it filed for bankruptcy in 2008 and the biggest sovereign default is Greece with \$138 billion in March 2012."
 
 
 
@@ -108,16 +110,15 @@ Reference: Bernanke, Gertler, and Gilchrist (1996).
 $$ \text{haircut} = \frac{\text{market price} - \text{value as collateral}}{\text{market price}}.$$
 
 
-
 **High-yield bond** -- a bond with a lower credit grade than an investment-grade bond. The yield is therefore higher. Also known as **junk bond**, or **non-investment bond**.
 
 
 
-**Illiquidity** -- a debtor has insufficient *cash* (or other ``liquefiable'' assets) to pay his or her debts.
+**Illiquidity** -- a debtor has insufficient *cash* (or other "liquefiable" assets) to pay his or her debts.
 
 
 
-``A liquidity issue occurs when a firm has a temporary cash-flow problem. Its assets are greater than its debts, but some assets are illiquid. Therefore, although in theory assets are greater than debts, it can’t meet its current payment requirements.''
+"A liquidity issue occurs when a firm has a temporary cash-flow problem. Its assets are greater than its debts, but some assets are illiquid. Therefore, although in theory assets are greater than debts, it can’t meet its current payment requirements."
 
 
 
