@@ -68,7 +68,7 @@ When a bigger investor in the money market "deposits" money in a bank, we say th
 
 
 
-"[...] for example when a home buyer fails to make a mortgage payment, or when a corporation or government fails to pay a bond which has reached maturity. A national or sovereign default is the failure or refusal of a government to repay its national debt. The biggest private default in history is Lehman Brothers with over \$600 billion when it filed for bankruptcy in 2008 and the biggest sovereign default is Greece with \$138 billion in March 2012."
+"[...] for example when a home buyer fails to make a mortgage payment, or when a corporation or government fails to pay a bond which has reached maturity. A national or sovereign default is the failure or refusal of a government to repay its national debt. The biggest private default in history is Lehman Brothers with over \\$600 billion when it filed for bankruptcy in 2008 and the biggest sovereign default is Greece with \\$138 billion in March 2012."
 
 
 
