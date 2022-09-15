@@ -4,7 +4,7 @@ date: 2020-08-13 00:00:00
 excerpt: This is my ongoing project to collect a glossary of words and concepts used in macro-finance, *which I keep on forgetting*...
 ---
 
-I've done some searching online, but so far failed to find any glossary of frequently used macro-finance term. So I started to put together my own. In my experience, a good way to memorize concepts is to write them down in my own words; as I revisit my glossary, I edit definitions, correct my previous misconceptions, and try to condens the text. It's not only a good way to retain the meaning of the terms, but also a chance to practice my writing and reading skills. Enjoy! 😊
+I've done some searching online, but so far failed to find any glossary of frequently used macro-finance term. So I started to put together my own. In my experience, a good way to memorize concepts is to write them down in my own words; as I revisit my glossary, I edit definitions, correct my previous misconceptions, and try to condense the text. It's not only a good way to retain the meaning of the terms, but also a chance to practice my writing and reading skills. Enjoy! 😊
 
 
 **Abnormal returns --** Difference between an asset's return and its expected return. A coarse estimate is to take the realized return of the asset and subtract the return of a benchmark index such as the S&amp;P 500. More sophisticated is to use the method of MacKinley, 1997 (Event Studies in Economics and Finance).
@@ -16,11 +16,11 @@ I've done some searching online, but so far failed to find any glossary of frequ
 **Capital –** The interpretation of capital depends on the context. In macro, it usually refers to some good that together with labor is used to produce output (e.g., capital can include tractors, computers, and houses). These goods can be refered to as *capital assets*. However, in finance, just *capital* often means the amount of financial assets held (e.g., cash, bonds, liquid stocks) or investments raised. It may be expanded to include a company's capital assets.
 
 
-**Capital Asset Pricing Model --** the **CAPM**. The model can be derived from several representative agent models, and boils down to that the expected return $E[R_i]$ of an asset $i$ is 
+**Capital Asset Pricing Model --** the **CAPM**. The model can be derived from several representative agent models, and boils down to that the expected return $E[R_i]$ of an asset $i$ is
 
 $$E[R_i] = R_f + \beta_i(E[R_M] - R_f),$$
 
-where $R_f$ is the risk-free rate, $\beta_i$ is asset $i$'s "beta", and $E[R_M]$ is the expected return of the market. 
+where $R_f$ is the risk-free rate, $\beta_i$ is asset $i$'s "beta", and $E[R_M]$ is the expected return of the market.
 
 The coefficient $\beta_i$ reflects how the asset correlates with the overall market and how much risk it adds to the portfolio. If $\beta$ is positive, the asset has a higher expected return when the overall market's expected return increases. Assets with negative $\beta$ react in the opposite direction of markets; in a recession when markets are falling, negative-$\beta$ assets increase in value because they are expected to yield higher returns.
 
@@ -104,7 +104,7 @@ Reference: Bernanke, Gertler, and Gilchrist (1996).
 
 
 
-**Haircut** -- A measure of how much discount a creditor does on the collateral value for a loan. Often used in repo markets. An example: a borrower wants to make an overnight loan, using a 1-year T-bill currently traded at $\$100$ as collateral. The bank (creditor) says they will accept it as collateral worth $\$80$. The haircut is then 20%.
+**Haircut** -- A measure of how much discount a creditor does on the collateral value for a loan. Often used in repo markets. An example: a borrower wants to make an overnight loan, using a 1-year T-bill currently traded at \\$100 as collateral. The bank (creditor) says they will accept it as collateral worth \\$80. The haircut is then 20%.
 
 
 $$ \text{haircut} = \frac{\text{market price} - \text{value as collateral}}{\text{market price}}.$$
@@ -226,7 +226,7 @@ An *ex-ante* Sharpe ratio uses expected return and predicted volatility, while t
 
 
 
-**Shiller P/E **or** CAPE --** Cyclically adjusted price-to-earnings ratio “is defined as price divided by the average of ten years of earnings, adjusted for inflation.”
+**Shiller P/E** or **CAPE --** Cyclically adjusted price-to-earnings ratio “is defined as price divided by the average of ten years of earnings, adjusted for inflation.”
 
 
 
