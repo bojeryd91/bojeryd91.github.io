@@ -41,11 +41,11 @@ Assume that we are only considering two cities ($c \in \{1, 2\}$). Take an $\til
 
 $$
 \begin{align*}
-y_i &amp;= \beta X_i + \tilde{\eta}_1 1(i~grew~up~in~1) + \tilde{\eta}_2 1(i~grew~up~in~2) \\
-&amp;\qquad \qquad + \tilde{\gamma} v_1 1(i~grew~up~in~1) + \tilde{\gamma} v_2 1(i~grew~up~in~2) + \epsilon_i \\
+y_i &= \beta X_i + \tilde{\eta}_1 1(i~grew~up~in~1) + \tilde{\eta}_2 1(i~grew~up~in~2) \\
+&\qquad \qquad + \tilde{\gamma} v_1 1(i~grew~up~in~1) + \tilde{\gamma} v_2 1(i~grew~up~in~2) + \epsilon_i \\
 %
-&amp;= \beta X_i + (\eta_1 + \Delta) 1(i~grew~up~in~1) + \tilde{\eta}_2 1(i~grew~up~in~2) \\
-&amp;\qquad \qquad + \tilde{\gamma} v_1 1(i~grew~up~in~1) + \tilde{\gamma} v_2 1(i~grew~up~in~2) + \epsilon_i.
+&= \beta X_i + (\eta_1 + \Delta) 1(i~grew~up~in~1) + \tilde{\eta}_2 1(i~grew~up~in~2) \\
+&\qquad \qquad + \tilde{\gamma} v_1 1(i~grew~up~in~1) + \tilde{\gamma} v_2 1(i~grew~up~in~2) + \epsilon_i.
 \end{align*}
 $$
 
@@ -53,28 +53,30 @@ If I now make some clever choices for $\tilde{\eta}_2$ and $\tilde{\gamma}$, I c
 
 $$
 \begin{align*}
-y_i &amp;= \beta X_i + (\eta_1 + \Delta) 1(i~grew~up~in~1) + (\eta_2 + \frac{\Delta}{v_1}v_2) 1(i~grew~up~in~2) \\
-&amp;\qquad \qquad - \frac{\Delta}{v_1} v_1 1(i~grew~up~in~1) - \frac{\Delta}{v_1} v_2 1(i~grew~up~in~2) + \epsilon_i \\
+y_i &= \beta X_i + (\eta_1 + \Delta) 1(i~grew~up~in~1) + (\eta_2 + \frac{\Delta}{v_1}v_2) 1(i~grew~up~in~2) \\
+&\qquad \qquad - \frac{\Delta}{v_1} v_1 1(i~grew~up~in~1) - \frac{\Delta}{v_1} v_2 1(i~grew~up~in~2) + \epsilon_i \\
 %
-&amp;= \beta X_i + \eta_1 1(i~grew~up~in~1) + \eta_2 1(i~grew~up~in~2) + \epsilon_i \\
-&amp;= \beta X_i + \eta_c + \epsilon_i.
+&= \beta X_i + \eta_1 1(i~grew~up~in~1) + \eta_2 1(i~grew~up~in~2) + \epsilon_i \\
+&= \beta X_i + \eta_c + \epsilon_i.
 \end{align*}
 $$
 
 This is model (1), the equation we started with before a seminar participant asked what would happen if we controlled for average income where the subject grew up.
 
-First of all, we see that we can be wrong by an arbitrary value $\Delta$ in our estimate of $\eta_1$ and still get back to the original model. For any $\Delta$, the combination $(\tilde{\eta}_1, \tilde{\eta}_2, \tilde{\gamma}) = (\eta_1 + \Delta, \eta+\frac{\Delta}{v_1}v_2, -\frac{\Delta}{v_1})$ will return us to that model. The sum of squared errors will be the same using either estimator (the sum will be $\sum_{i=1}^N \epsilon_i^2$), so they equally well explain the data.
+First of all, we see that we can be wrong by an arbitrary value $\Delta$ in our estimate of $\eta_1$ and still get back to the original model. For any $\Delta$, the combination $(\tilde{\eta}_1, \tilde{\eta}_2, \tilde{\gamma}) = (\eta_1 + \Delta, \eta+\frac{\Delta}{v_1}v_2, - \frac{\Delta}{v_1})$ will return us to that model. The sum of squared errors will be the same using either estimator (the sum will be $\sum_{i=1}^N \epsilon_i^2$), so they equally well explain the data.
 
 This is not saying that (2) is necessarily wrong, I'm saying that we cannot distinguish between (1) and (2) because we cannot identify the parameters in (2). Because of that, and a remark further down, I think it is better to run with model (1).
 
 But more important are conclusions about $\beta$. Any deviation in the estimator of $\beta$ will increase the sum of squared errors while it is completely unaffected by $\Delta$. So, $\beta$ is still identified in this model and if that's all we're interested in, we don't need to bother with adding controls that are collinear with FEs or if they are identified or not.
 
 You can also include an intercept in either model (1) or (2). Then you will see that the intercept has a different interpretation when using fixed effects. Since some people use the intercept as a benchmark, this matters.
-<h4>It generalizes!</h4>
+
+### It generalizes!
 It's pretty cool that we don't need to observe all these things that could influence the outcome variable if they are location-specific and we use location-specific FEs (it does matter if people can move around though).
 
 This generalizes to time FEs (if you control for a variable constant within a time period, across the sample, it will be absorbed by time FEs), to individual FEs (say you try to control for parent characteristics in a individual-level panel), etc. If you can write a control variable as $c_t$ (because it doesn't vary across $i$), then it will be collinear with fixed effects $\eta_t$ (unless one is dropped). Fixed effects truly absorb everything that goes on, on average, within the group of observations it covers.
-<h4>One last remark</h4>
+
+### One last remark
 A danger when not paying attention to our fixed effects is when we start making interpretations of the control variables after running an OLS. The output from Stata looks good enough, my important coefficient didn't change, I'm happy. If I ran model (2), controlling for the variable $v_t$ in the two-city scenario, then Stata dropped one of two fixed effects. In this case, say it was $\eta_2$ that was dropped. Then what Stata actually estimated was
 
 $$
@@ -89,8 +91,8 @@ By matching of coefficients,
 
 $$
 \begin{alignat*}{3}
-\tilde{\eta}_1 + \tilde{\gamma}v_1 &amp;= \eta_1 + \gamma v_1 &amp;\Rightarrow &amp;&amp;\tilde{\eta}_1 &amp;= \eta_1 + (\gamma - \tilde{\gamma}) v_1,\\
-\tilde{\gamma} v_2 &amp;= \eta_2 + \gamma v_2 &amp;\Rightarrow &amp;&amp;\tilde{\gamma} &amp;= \frac{\eta_2}{v_2} + \gamma
+\tilde{\eta}_1 + \tilde{\gamma}v_1 &= \eta_1 + \gamma v_1 &\Rightarrow &&\tilde{\eta}_1 &= \eta_1 + (\gamma - \tilde{\gamma}) v_1,\\
+\tilde{\gamma} v_2 &= \eta_2 + \gamma v_2 &\Rightarrow &&\tilde{\gamma} &= \frac{\eta_2}{v_2} + \gamma
 \end{alignat*}
 $$
 
