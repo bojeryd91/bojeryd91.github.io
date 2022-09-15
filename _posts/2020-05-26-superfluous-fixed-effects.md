@@ -63,7 +63,7 @@ $$
 
 This is model (1), the equation we started with before a seminar participant asked what would happen if we controlled for average income where the subject grew up.
 
-First of all, we see that we can be wrong by an arbitrary value $\Delta$ in our estimate of $\eta_1$ and still get back to the original model. For any $\Delta$, the combination ($\tilde{\eta}_1, \tilde{\eta}_2$, $\tilde{\gamma}$) 
+First of all, we see that we can be wrong by an arbitrary value $\Delta$ in our estimate of $\eta_1$ and still get back to the original model. For any $\Delta$, the combination ($\tilde{\eta}, \tilde{\eta}$, $\tilde{\gamma}$) 
 
 = ($\eta_1 + \Delta$, $\eta + \frac{\Delta}{v_1} v_2$, $-\frac{\Delta}{v_1})$ will return us to that model. The sum of squared errors will be the same using either estimator (the sum will be $\sum_{i=1}^N \epsilon_i^2$), so they equally well explain the data.
 
