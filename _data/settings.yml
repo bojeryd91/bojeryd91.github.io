@@ -6,7 +6,7 @@ basic_settings:
 header_settings:
   logo_image: 
   logo_width: 200
-  overlay_opacity: 0.7
+  overlay_opacity: 0.0
 
 menu_settings:
   menu_items:
