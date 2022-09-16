@@ -91,8 +91,8 @@ By matching of coefficients,
 
 $$
 \begin{alignat*}{3}
-\tilde{\eta}_1 + \tilde{\gamma}v_1 &= \eta_1 + \gamma v_1 &\Rightarrow &&\tilde{\eta}_1 &= \,&&\eta_1 + (\gamma - \tilde{\gamma}) v_1,\\
-                \tilde{\gamma} v_2 &= \eta_2 + \gamma v_2 &\Rightarrow &&\tilde{\gamma} &= \,&&\frac{\eta_2}{v_2} + \gamma
+\tilde{\eta}_1 + \tilde{\gamma}v_1 &= \eta_1 + \gamma v_1 &&\Rightarrow \tilde{\eta}_1 &&= \eta_1 + (\gamma - \tilde{\gamma}) v_1,\\
+                \tilde{\gamma} v_2 &= \eta_2 + \gamma v_2 &&\Rightarrow \tilde{\gamma} &&= \frac{\eta_2}{v_2} + \gamma
 \end{alignat*}
 $$
 
