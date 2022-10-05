@@ -60,14 +60,3 @@
 	left: 50%;
 	@include translate(-50%,-52%);
 }
-
-.tmp_icon {
-  -webkit-mask-size: cover;
-  mask-size: cover;
-  -webkit-mask-image: url(images/icons8-google-scholar-50.svg);
-  mask-image: url(images/icons8-google-scholar-50.svg);
-  background-color: blue; // or any color of your choice.
-  width: 20px;
-  height: 20px;
-}
-}
