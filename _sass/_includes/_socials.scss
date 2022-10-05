@@ -55,9 +55,8 @@
 
 .fa-scholar {
 	color: $background-color;
-	
-	&:hover {
-		background: $accent-color;
-		color: $background-color;
-	}
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	@include translate(-50%,-52%);
 }
