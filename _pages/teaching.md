@@ -6,11 +6,11 @@ featured_image: /images/headshot1.jpg
 
 #  Teaching assistant
 ## Statistics for economists (UCLA, Econ 41)
-- Fall 2019, evaluations: <a href="teaching_evals/TA_evaluations_F2019_Econ_41.pdf" download>download</a>
+- Fall 2019, evaluations: <a href="https://github.com/bojeryd91/bojeryd91.github.io/raw/main/_pages/teaching_evals/TA_evaluations_F2019_Econ_41.pdf" download>download</a>
 - Winter 2022, evaluations:
 
 ## Financial markets and financial institutions (UCLA, Econ 106M)
-- Winter 2020, evaluations: <a href="teaching_evals/TA_evaluations_W2020_Econ_106M.pdf" download>download</a>
+- Winter 2020, evaluations: <a href="https://github.com/bojeryd91/bojeryd91.github.io/raw/main/_pages/teaching_evals/TA_evaluations_W2020_Econ_106M.pdf" download>download</a>
 - Spring 2020, evaluations:
 - Fall 2020, evaluations:
 
