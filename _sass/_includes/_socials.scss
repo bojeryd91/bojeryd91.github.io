@@ -56,7 +56,8 @@
 .fa-scholar {
 	color: $background-color;
 	position: absolute;
-	width: 100%;
+	width: 75%;
+	height: 75%;
 	top: 50%;
 	left: 50%;
 	@include translate(-50%,-52%);
