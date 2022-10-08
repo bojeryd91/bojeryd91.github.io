@@ -52,13 +52,3 @@
 		color: $background-color;
 	}
 }
-
-.fa-scholar {
-	color: $background-color;
-	position: absolute;
-	width: 75%;
-	height: 75%;
-	top: 50%;
-	left: 50%;
-	@include translate(-50%,-52%);
-}
