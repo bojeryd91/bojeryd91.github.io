@@ -95,6 +95,8 @@ When a bigger investor in the money market "deposits" money in a bank, we say th
 Reference: Bernanke, Gertler, and Gilchrist (1996).
 
 
+**Fiscal theory of the price level (FTPL) --** The theory emphasizes that inflation (the price level) is mostly determined by government fiscal policy. I.e., how governments spend and finance that spending (which they do through a combination of taxes and borrowing at different horizons). Inflation can here be explained as a decision of the government to "inflate away" their debt. However, this has to surprise the market who else will require compensation (through higher treasury rates).
+
 
 **Forward price --** A contracted price of a specific future transaction.
 
