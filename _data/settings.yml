@@ -4,7 +4,7 @@ basic_settings:
   favicon_image: /images/favicon.ico
 
 header_settings:
-  logo_image: 
+  logo_image:
   logo_width: 200
   overlay_opacity: 0.0
 
@@ -66,7 +66,7 @@ color_settings:
   background_alt_color: '#F5F7FA'
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
-  text_light_color: 'blue'
+  text_light_color: '#993333'
   accent_color: '#00A6FF'
   border_color: '#993333'
   overlay_background_color: '#993333'
