@@ -5,11 +5,9 @@ description: My research website.
 featured_image: /images/headshot1.jpg
 ---
 
-I am a 5th year PhD student at UCLA, with a previous history as a research assistant at Swedish House of Finance at Stockholm School of Economics and the Riksbank (the Swedish Central Bank).
+I am a doctoral candidate at UCLA doing research in applied macroeconomics, using household registry data, applied methods, and structural modeling to study the role of home prices and credit use in household finance.
 
-My research interests lie in empirical macroeconomics in general, and I work with micro-level heterogeneity and exploit different exposures to shocks to disentangle transmission channels and explain aggregate outcomes. I have many years of experience using household data in empirical micro, and I am currently exploring questions of monetary policy and house prices using these skills. I also do work in financial macroeconomics.
-
-The empirical work is complemented with structural models, both to illustrate mechanisms but also to keep theory and empirical work together.
+I will be on the job market of 2023/2024.
 
 **Contact:** jesper bojeryd at ucla dot edu
 
