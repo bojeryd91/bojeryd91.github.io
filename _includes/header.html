@@ -43,7 +43,9 @@
 	
 	<script>
 	  MathJax = {
+	    loader: {load: ['[tex]/textmacros']},
 	    tex: {
+	      packages: {'[+]': {'textmacros'}},
 	      inlineMath: [['$', '$']]
 	    }
 	  };
