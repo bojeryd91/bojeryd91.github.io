@@ -56,7 +56,7 @@
 }
 
 .header-image--on {
-	@include mq($from: tabletl) {
+	@include mq(tabletl) {
 		opacity: 1;
 	}
 }
