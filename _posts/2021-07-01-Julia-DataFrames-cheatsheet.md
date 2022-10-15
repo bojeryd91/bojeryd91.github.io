@@ -4,7 +4,7 @@ date: 2021-07-01 11:48:52
 excerpt: My cheatsheet to go between data manipulation in Stata and Julia/DataFrames
 ---
 
-## Creating and calculating within groups</h4>
+## Creating and calculating within groups
 
 | In Stata:      | In Julia: |
 | :------------- | :-------- |
