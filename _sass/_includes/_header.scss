@@ -56,7 +56,9 @@
 }
 
 .header-image--on {
-	opacity: 1;
+	@include mq(desktop) {
+		opacity: 1;
+	}
 }
 
 .header-overlay {
