@@ -7,7 +7,7 @@ excerpt: My cheatsheet to go between data manipulation in Stata and Julia/DataFr
 ## Creating and calculating within groups</h4>
 
 | In Stata:      | In Julia: |
-| -------------- |
+| -------------- | --------- |
 |bysort group1 group2 (t): egen sum = sum(freq) <br> 
  generate prob = freq/sum <br>
  bysort group1 group2: gen cumul = sum(prob) | sort!(df, [:group1, :group2, :t]) <br>
@@ -19,4 +19,5 @@ excerpt: My cheatsheet to go between data manipulation in Stata and Julia/DataFr
 ## Collapsing data
 
 | In Stata: | In Julia: |
+| --------- | --------- |
 | collapse (sum) freq, by(group) | combine(groupby(df, group), :freq => sum => :freq) |
