@@ -97,6 +97,8 @@ Reference: Bernanke, Gertler, and Gilchrist (1996).
 
 **Fiscal theory of the price level (FTPL) --** The theory emphasizes that inflation (the price level) is mostly determined by government fiscal policy. I.e., how governments spend and finance that spending (which they do through a combination of taxes and borrowing at different horizons). Inflation can here be explained as a decision of the government to "inflate away" their debt. However, this has to surprise the market who else will require compensation (through higher treasury rates).
 
+**FIMA Repo Facility (Foreign and International Monetary Authorities) --** A Fed facility where e.g. foreign central banks can buy repos on U.S. treasuries for USDs. This provides foreign financial markets with access to dollars. (If a country is in need of dollars, that country's central bank can exchange a U.S. treasury for dollars, and lend the dollars to whoever needs it locally.)
+
 
 **Forward price --** A contracted price of a specific future transaction.
 
