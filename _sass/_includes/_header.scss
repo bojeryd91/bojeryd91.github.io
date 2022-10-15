@@ -56,7 +56,7 @@
 }
 
 .header-image--on {
-	@include mq(desktop) {
+	@include mq($from: tabletl) {
 		opacity: 1;
 	}
 }
@@ -150,7 +150,7 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Menu
 
 .menu {
-	
+
 	@include mq(tabletl) {
 		margin-top: 20px;
 	}
@@ -168,7 +168,7 @@
 	cursor: pointer;
 	font-size: 15px;
 	line-height: 20px;
-	
+
 	@include mq(tabletl) {
 		display: none;
 	}
@@ -206,16 +206,16 @@
 	span:before, span:after {
 		background: $overlay-text-color !important;
 	}
-		
+
 	span {
 		background-color: transparent !important;
 	}
-	
+
 	span:before,
 	span:after {
 		top: 0;
 	}
-	
+
 	span:before {
 		@include rotate(45);
 	}
@@ -291,7 +291,7 @@
 	@include mq(laptop) {
 		font-size: $menu-large;
 	}
-	
+
 	&.active-link {
 		color: $overlay-text-color;
 	}
