@@ -87,6 +87,12 @@ When a bigger investor in the money market "deposits" money in a bank, we say th
 **Excess return --** The difference in return earned by an asset and the risk-free rate.
 
 
+**Fannie Mae --** or, The Federal National Mortgage Association (FNMA), is a company funded by the U.S. Congress in 1938 which went public in 1968. Its purpose is to facilitate credit provision to owners of real estate by buying loans from loan originators. So, a bank can make out a mortgage to a home owner, then they turn around and sell it to Fannie Mae, which has to buy the loan as long as the mortgage fulfills certain criteria, at any market condition (the last is because it is a so-called Government-Sponsored Enterprise). Fannie Mae can then bundle the mortgage with others, into a so-called MBS (Mortgage-backed security) which they sell to e.g. a pension fund. Fannie Mae takes on the credit risk; if a loan defaults, they guarantee the buyer of the MBS the cashflow. However, it is not in law that the GSE is backed my the U.S. government, while there seems to be an *implicit* backing.
+
+During the turmoil of the Financial crisis of 2007--2008, the U.S. government took back control of Fannie Mae (and Freddie Mac). As of late 2022, it is still under government charter.
+
+See also Freddie Mac and Ginnie Mae below.
+
 
 **Financial accelerator --** a mechanism of macroeconomics that exacerbates shocks through frictions in financial markets. E.g., if a firm usually borrows using its current net worth as collateral, a shock that lowers its value decreases the firm's ability to raise credit to invest with. This further depresses its net worth, which in return depresses it even further; the mechanism is an acceleration.
 
@@ -106,8 +112,12 @@ Reference: Bernanke, Gertler, and Gilchrist (1996).
 
 **Fractional reserve banking --** a banking system that allows banks to only hold a fraction of deposits as cash. E.g., before March 2021, the common requirement was to hold 10% of deposits as cash. The remaining 90% could be lent. In April 2021, the Federal Reserve reduced the requirement to zero percent.
 
+**Freddie Mac --** (The Federal Home Loan Mortgage Corporation, FHLMC) is as Fannie Mae (see above) a government-sponsored enterprise but created in 1970, with the same role to provide liquidity to mortgage lendors in the U.S. mortgage market. The major difference is that Freddie Mac buys mortgage loans from smaller banks while Fannie Mae buys from larger, commercial banks. They also differ in downpayment requirements, and the income cap of eligibility.
+
 
 **Gilts --** refers to treasuries issued in countries of the Commonwealth.
+
+**Ginnie Mae --** (The Government National Mortgage Association, GNMA). The company is owned by the U.S. government (unlike Fannie Mae and Freddie Mac) and *guarantees* the payments of mortgage-backed securities that are issued by other government agencies (government agency-backed mortgage loans). They do not create nor sell MBSs, they guarantee their payments. Ginnie Mae is explicitly backed by the U.S. government.
 
 
 **Haircut --** A measure of how much discount a creditor does on the collateral value for a loan. Often used in repo markets. An example: a borrower wants to make an overnight loan, using a 1-year T-bill currently traded at \$100 as collateral. The bank (creditor) says they will accept it as collateral worth \$80. The haircut is then 20%.
