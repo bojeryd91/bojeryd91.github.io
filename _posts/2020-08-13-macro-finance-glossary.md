@@ -270,7 +270,7 @@ An *ex-ante* Sharpe ratio uses expected return and predicted volatility, while t
 
 
 
-**Tier 1 capital --** Defined in the Basel accords. Consists of core capital which is disclosed reserves and the original value of the bank's equity, plus accumulated net profits. The bank equity is thus *not *the current price on an exchange.
+**Tier 1 capital --** Defined in the Basel accords. Consists of core capital which is disclosed reserves and the original value of the bank's equity, plus accumulated net profits. The bank equity is thus *not* the current price on an exchange.
 
 
 
