@@ -38,4 +38,31 @@
 	</div>
 
 	{% seo %}
+	<script>
+	document.onload = function() {
+		MathJax = {
+			tex: {
+				inlineMath: [['$', '$']],
+				tags: 'ams'
+			}
+			loader: {load: ['ui/lazy']},
+		  startup: {
+		    ready() {
+		      const {STATE, AbstractMathItem} = MathJax._.core.MathItem;
+		      AbstractMathItem.prototype._STATE = AbstractMathItem.prototype.state;
+		      AbstractMathItem.prototype.state = function (state, restore) {
+		        if (state === STATE.TYPESET && this.lazyTypeset === false) {
+		          console.log(this.math);
+		        }
+		        return this._STATE(state, restore);
+		      }
+		      MathJax.startup.defaultReady();
+		    }
+		  }
+		};
+	}
+	</script>
+	<script type="text/javascript" id="MathJax-script" async
+		src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+	</script>
 </header>
