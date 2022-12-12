@@ -1,7 +1,7 @@
 site: Jesper Böjeryd
 
-url: 
-baseurl: 
+url:
+baseurl:
 
 collections:
   pages:
@@ -44,7 +44,8 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
+  math_engine: katex
+
 sass:
   style: compressed
 
@@ -58,4 +59,3 @@ paginate_path: "/blog/page:num/"
 
 # Google Analytics
 google_analytics: G-TZRJYW1Z5V
-  
