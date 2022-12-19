@@ -4,7 +4,7 @@
 			inlineMath: [['$', '$']],
 			tags: 'ams'
 		}
-		loader: {load: ['ui/lazy']},
+		loader: {load: ['ui/lazy']};
 	  startup: {
 	    ready() {
 	      const {STATE, AbstractMathItem} = MathJax._.core.MathItem;
@@ -28,10 +28,10 @@
 <script>
 	console.log("Hello World!");
 </script>
-<script>	
-	$(document).ajaxComplete(function(event, xhr, settings)
+<script>
+	$(document).ajaxComplete(function(event, xhr, settings))
 	{
    console.log("Hej Jeppe!");
-  }
+	}
  });
 </script>
