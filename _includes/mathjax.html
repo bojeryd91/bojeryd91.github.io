@@ -3,7 +3,7 @@
 		tex: {
 			inlineMath: [['$', '$']],
 			tags: 'ams'
-		}
+		};
 		loader: {load: ['ui/lazy']};
 	  startup: {
 	    ready() {
@@ -29,8 +29,7 @@
 	console.log("Hello World!");
 </script>
 <script>
-	$(document).ajaxComplete(function(event, xhr, settings))
-	{
+	$(document).ajaxComplete(function()){
    console.log("Hej Jeppe!");
 	}
  });
