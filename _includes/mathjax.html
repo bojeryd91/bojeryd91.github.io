@@ -30,6 +30,7 @@
 </script>
 <script>
 	$(document).ajaxComplete(function(){
+		setTimeout(MathJax.typesetPromise, 100);
 		MathJax.typesetPromise();
   	console.log("Hej Jeppe!");
 	});
