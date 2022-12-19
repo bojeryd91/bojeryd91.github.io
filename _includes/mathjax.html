@@ -3,7 +3,7 @@
 		tex: {
 			inlineMath: [['$', '$']],
 			tags: 'ams'
-		}
+		},
 		loader: {load: ['ui/lazy']},
 	  startup: {
 	    ready() {
@@ -23,4 +23,10 @@
 
 <script type="text/javascript" id="MathJax-script" async
 	src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+<script>
+	$(document).ajaxComplete(function(){
+		setTimeout(MathJax.typesetPromise, 500);
+	});
 </script>
