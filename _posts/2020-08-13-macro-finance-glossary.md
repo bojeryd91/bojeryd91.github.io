@@ -120,7 +120,7 @@ Reference: Bernanke, Gertler, and Gilchrist (1996).
 **Ginnie Mae --** (The Government National Mortgage Association, GNMA). The company is owned by the U.S. government (unlike Fannie Mae and Freddie Mac) and *guarantees* the payments of mortgage-backed securities that are issued by other government agencies (government agency-backed mortgage loans). They do not create nor sell MBSs, they guarantee their payments. Ginnie Mae is explicitly backed by the U.S. government.
 
 
-**Haircut --** A measure of how much discount a creditor does on the collateral value for a loan. Often used in repo markets. An example: a borrower wants to make an overnight loan, using a 1-year T-bill currently traded at \$100 as collateral. The bank (creditor) says they will accept it as collateral worth \$80. The haircut is then 20%.
+**Haircut --** A measure of how much discount a creditor does on the collateral value for a loan. Often used in repo markets. An example: a borrower wants to make an overnight loan, using a 1-year T-bill currently traded at \\$100 as collateral. The bank (creditor) says they will accept it as collateral worth \\$80. The haircut is then 20%.
 
 
 $$ \text{haircut} = \frac{\text{market price} - \text{value as collateral}}{\text{market price}}.$$
