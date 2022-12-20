@@ -14,7 +14,7 @@ I will be on the job market of 2023/2024.
 ---
 
 #  Work in progress:
-## The Housing Wealth Effect: Quasi-Experimental Evidence, with Dany Kessel, Björn Tyrefors, and Roine Vestman
+## The Housing Wealth Effect: Quasi-Experimental Evidence, with Dany Kessel, Björn Tyrefors, and [Roine Vestman](https://roinevestman.com/)
 We exploit a quasi-experiment to provide new evidence on the magnitude of the housing wealth effect. We estimate an immediate shock of approximately –19% to house prices close to one of Stockholm's airports after its operations were unexpectedly continued. This source of price variation is ideal for identifying housing wealth effects since it is unrelated to macroeconomic conditions. We estimate a micro elasticity of 0.40 among purchasers of new cars. The implied aggregate MPC on cars is however only 0.14 cents per dollar. The response is entirely concentrated to homeowners with low bank deposits and loan-to-value ratios above 50%.
 
 New draft to come soon, with new credit outcome, a broader sample, and including renters and co-op apartment owners.
