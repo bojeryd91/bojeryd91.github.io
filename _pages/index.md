@@ -5,7 +5,7 @@ description: My research website.
 featured_image: /images/headshot1.jpg
 ---
 
-I am a doctoral candidate at UCLA doing research in applied macroeconomics, using household registry data, applied methods, and structural modeling to study the role of home prices and credit use in household finance.
+I am a doctoral candidate at UCLA doing research in applied macroeconomics, using household registry data, methods from applied microeconomics, and structural modeling to study the role of home prices and credit use in household finance and its role in macroeconomics.
 
 I will be on the job market of 2023/2024.
 
