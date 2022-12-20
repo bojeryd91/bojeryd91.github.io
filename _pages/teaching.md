@@ -22,4 +22,4 @@ featured_image: /images/headshot1.jpg
 - Fall 2021: <a href="https://github.com/bojeryd91/bojeryd91.github.io/raw/main/_pages/teaching_evals/TA_evaluations_2021F_Econ_202A.pdf" download>download evaluations</a>
 
 ### Corporate finance (UCLA, Econ 106F)
-- Fall 2022:
+- Fall 2022: <a href="https://github.com/bojeryd91/bojeryd91.github.io/raw/main/_pages/teaching_evals/TA_evaluations_2022F_Econ_106F.pdf" download>download evaluations</a>
