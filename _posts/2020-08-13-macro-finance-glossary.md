@@ -200,6 +200,7 @@ You can find more details at the New York Fed's webpage.
 
 **Operation Twist --** Mainstream media name for e.g. the Maturity extension program (MEP) of 2011, when the Fed announced to sell short-term government bonds to finance the purchases of long-term bonds to flatten the yield curve. This "twisting" of the yield curve does not expand the balance sheet of the Fed, unlike quantitative easing (since the purchases are financed by selling short-term bonds and not fountain pen money). Operation Twist was coined in 1961 when the Fed took similar action.
 
+**Par value --** synonymous with the face value of a bond, which most often is different from the asset's market value.
 
 
 **Price-to-earnings ratio** (**PE ratio** or **P/E ratio**) -- It is the ratio $\frac{\text{Market value per share}}{\text{Earnings per share}}$. The numerator is given by the currently traded stock price, while the denominator is either an average of previous earnings, or it is an estimate for future earnings.
