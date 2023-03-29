@@ -12,5 +12,5 @@ Empirical studies have estimated a big range of consumption response sizes to ch
 ## Car purchases, indebtedness and monetary policy
 Using the universe of car transactions matched to annual census data in Sweden, I study how the cash-flow channel of monetary policy affects households’ decisions to buy cars. Draft to come soon.
 
-## Heterogeneous effects of QE on corporate bonds and firm outcomes, with [Adam Baybutt](http://www.adambaybutt.org/)
+## [Heterogeneous effects of QE on corporate bonds and firm outcomes](http://www.adambaybutt.org/uploads/1/2/4/9/124972193/baybutt_bojeryd-2021-qe_and_firms.pdf), with [Adam Baybutt](http://www.adambaybutt.org/)
 Does lowering corporate bond rates by QE in itself stimulate firm investment and other real outcomes? By an event-time approach with TRACE data, we try to disentangle channels of large-scale asset purchases to the firm side of the U.S. economy.
