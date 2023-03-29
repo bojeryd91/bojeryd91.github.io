@@ -13,12 +13,11 @@ I will be on the job market of 2023/2024.
 
 ---
 
+#  Recent updates:
+## <a href="https://docs.google.com/viewer?url=https://github.com/bojeryd91/bojeryd91.github.io/raw/main/papers/DP18034-compressed.pdf">New version of The Housing Wealth Effect: Quasi-Experimental Evidence</a>, with [Dany Kessel](https://sites.google.com/view/dany-kessel-phd-candidate/startsida), [Björn Tyrefors](http://btyrefors.se/), and [Roine Vestman](https://roinevestman.com/)
+Empirical studies have estimated a big range of consumption response sizes to changes in house prices. Using a quasi-experiment, we estimate a shock of –19.4 percent to house prices in the area surrounding an airport in Stockholm after its operations were unexpectedly continued as a result of political bargaining behind closed doors. This source of price divergence is ideal for identifying housing wealth effects since it is local and unrelated to variations in macroeconomic conditions. Using a household data set with information on the location of primary residence relative to the airport, we find a short-run elasticity with respect to new car purchases of 0.39, corresponding to a one-year marginal propensity for car expenditures of 0.12 cents per dollar lost in housing wealth. Households with high loan-to-value ratios and little bank deposits respond the most. A quantitative model is consistent with the empirical findings and pinpoints important determinants of the response size, which may explain the variation in previous estimates.
+
 #  Work in progress:
-## The Housing Wealth Effect: Quasi-Experimental Evidence, with [Dany Kessel](https://sites.google.com/view/dany-kessel-phd-candidate/startsida), [Björn Tyrefors](https://www.ifn.se/forskare/ifn-forskare/bjorn-tyrefors/), and [Roine Vestman](https://roinevestman.com/)
-We exploit a quasi-experiment to provide new evidence on the magnitude of the housing wealth effect. We estimate an immediate shock of approximately –19% to house prices close to one of Stockholm's airports after its operations were unexpectedly continued. This source of price variation is ideal for identifying housing wealth effects since it is unrelated to macroeconomic conditions. We estimate a micro elasticity of 0.40 among purchasers of new cars. The implied aggregate MPC on cars is however only 0.14 cents per dollar. The response is entirely concentrated to homeowners with low bank deposits and loan-to-value ratios above 50%.
-
-New draft to come soon, with new credit outcome, a broader sample, and including renters and co-op apartment owners.
-
 ## Car purchases, indebtedness and monetary policy
 Using the universe of car transactions matched to annual census data in Sweden, I study how the cash-flow channel of monetary policy affects households’ decisions to buy cars. Draft to come soon.
 
