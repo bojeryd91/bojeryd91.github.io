@@ -15,4 +15,11 @@ Vi finner att det är mestadels genom pantkanalen som huspriser påverkar konsum
 
 Detta skedde i 2007, ett år efter Alliansen valvinst. Tidigare var planen att Bromma skulle stängas 2011 och beslutet att förlänga kom som en överraskning. Ett tecken på det är att villapriser föll med 20% i det område runt flygplatsen med mest ljud från flyget, relativt villor i resterande Stockholm. (Generellt så steg bostadspriserna vid denna tid, så "fallet" är egentligen att villaägarna _inte_ upplevde en stegring av 20%.) Jämfört med tidigare studier kan vi studera varje hushåll innan- och utanför den mest intensiva ljudzonen och visa att de upplever samma inkomsttillväxt under perioden. De har även liknande förmögenhet så skatteförändringarna vid denna tid påverkade dem lika. Ljudzonen skär genom Stockholm längs med en diagonal genom olika bostadsområden vilket illustreras i grafen nedan.
 
-![Karta över ljudzonen runt Bromma flygplats](Bromma-post/Bromma-map.jpg?raw=true "Ljudkonturen av Bromma flygplats")
+### Karta över ljudzonen runt Bromma flygplats
+<img src="Bromma-post/Bromma-map.jpg?raw=true"  width="80%" max-width=2000px alt="Karta över ljudzonen runt Bromma flygplats">
+
+## Kort om datan
+Genom svensk registerdata kan vi studera enskilda (anonymiserade) villaägare, deras inkomstdata och förmögenhetsdata (fram till 2007 innan datainsamling till förmögenhetsregistret avslutades), och genom att be SCB koppla dessa till fordonsregistret, även bilköpsdata. Vi har även data på bostadsrättsägare och människor som hyr. Hyresgäster upplever ingen förändring i bostadspriser, men det visar sig att det gör inte heller bostadsrättsägare (i alla fall om vi jämför innanför och utanför ljudzonen). Alltså: endast villapriser förändras olika 
+
+## Resultat
+Så vad finner vi? Jo, att villaägare i ljudzonen köpte bilar av ett värde av 7.7–8.1% lägre än de utanför. Sannolikheten/antalet bilar per capita skiljer sig inte.
