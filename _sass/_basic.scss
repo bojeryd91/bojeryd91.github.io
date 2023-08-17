@@ -500,13 +500,3 @@ section {
 		@include translate(0,30px);
 	}
 }
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - By Jesper
-
-.small_header {
-	p {
-		@include mq(tabletl) {
-			width: 80%;
-		}
-	}
-}
