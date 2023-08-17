@@ -503,11 +503,12 @@ section {
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - By Jesper
 
-.small_header_p {
+.small_header_div {
 	@include mq(laptop) {
 		width: 80%;
 	}
 }
+
 .small_header_img {
 	width: 20%;
 	@include mq(laptop) {
