@@ -39,3 +39,4 @@ The Swedish government has over the late 2010s and early 2020s used the bonus-ma
 --->
 
 <p class="small_header">This is a test</p>
+<img class="small_header" src="{{ page.featured_image | relative_url }}" width="20%">
