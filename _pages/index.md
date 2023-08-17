@@ -39,8 +39,9 @@ The Swedish government has over the late 2010s and early 2020s used the bonus-ma
 --->
 
 <div>
-  <p class="small_header_p">I am a doctoral candidate at UCLA doing research in applied macroeconomics, using household registry data, methods from applied microeconomics, and structural modeling to study the role of home prices and credit use in household finance and its role in macroeconomics.
+  <div class="small_header_div">
+  <p>I am a doctoral candidate at UCLA doing research in applied macroeconomics, using household registry data, methods from applied microeconomics, and structural modeling to study the role of home prices and credit use in household finance and its role in macroeconomics.
     
-  I will be on the job market of 2023/2024.</p>
+  I will be on the job market of 2023/2024.</p></div>
   <img class="small_header_img" src="{{ page.featured_image | relative_url }}" width="20%">
 </div>
