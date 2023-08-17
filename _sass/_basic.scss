@@ -504,8 +504,10 @@ section {
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - By Jesper
 
 .small_header {
-	@include mq(laptop) {
-		width: 80%;
-		opacity: 0.5;
+	p {
+		@include mq(laptop) {
+			width: 80%;
+			opacity: 0.5;
+		}
 	}
 }
