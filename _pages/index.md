@@ -15,8 +15,8 @@ featured_image: /images/headshot1.jpg
   -->
 </div>
 
----
 **Contact:** jesper bojeryd at ucla dot edu
+---
 
 #  Recent updates:
 ## <a href="https://docs.google.com/viewer?url=https://github.com/bojeryd91/bojeryd91.github.io/raw/main/papers/DP18034-compressed.pdf">A new version of The Housing Wealth Effect: Quasi-Experimental Evidence</a>, with [Dany Kessel](https://sites.google.com/view/dany-kessel-phd-candidate/startsida), [Björn Tyrefors](http://btyrefors.se/), and [Roine Vestman](https://roinevestman.com/)
