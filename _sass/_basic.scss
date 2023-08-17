@@ -509,6 +509,10 @@ section {
         clear: both;
 }
 
+.small_header_container div {
+        float: left;
+}
+
 .small_header_div {
 	width: 70%;
 	@include mq(laptop) {
