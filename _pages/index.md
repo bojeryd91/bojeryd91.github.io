@@ -16,6 +16,7 @@ featured_image: /images/headshot1.jpg
 </div>
 
 **Contact:** jesper bojeryd at ucla dot edu
+
 ---
 
 #  Recent updates:
