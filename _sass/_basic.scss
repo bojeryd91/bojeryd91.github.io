@@ -507,6 +507,7 @@ section {
 	p {
 		@include mq(laptop) {
 			width: 80%;
+			float: left;
 			opacity: 0.5;
 		}
 	}
