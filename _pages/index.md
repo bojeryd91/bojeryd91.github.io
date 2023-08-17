@@ -38,10 +38,10 @@ Following the oil price plunge of 2014, local income and home prices fell in the
 The Swedish government has over the late 2010s and early 2020s used the bonus-malus system to encourage the purchases of fuel-efficient cars. The cutoffs are adjusted from time to time, and was in 2022 overnight adbruptly in-part abolished. In the Swedish motor vehicle registry we observe day-by-day transactions of each car, and we use this to analyze how car buyers respond to these changes and their environmental impact, and how buyers substitute between used, new, and different fuel-efficient cars. We also study the welfare transfer between different types of buyers, induced by the price sorting of fuel efficiency.
 --->
 
-<div>
+<div class="small_header_container">
   <div class="small_header_div">
   <p>I am a doctoral candidate at UCLA doing research in applied macroeconomics, using household registry data, methods from applied microeconomics, and structural modeling to study the role of home prices and credit use in household finance and its role in macroeconomics.
     
   I will be on the job market of 2023/2024.</p></div>
-  <div><img class="small_header_img" src="{{ page.featured_image | relative_url }}"></div>
+  <div class="small_header_img"><img src="{{ page.featured_image | relative_url }}"></div>
 </div>
