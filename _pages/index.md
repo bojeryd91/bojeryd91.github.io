@@ -6,16 +6,17 @@ featured_image: /images/headshot1.jpg
 ---
 
 <div>
-  <p width="70%">I am a doctoral candidate at UCLA doing research in applied macroeconomics, using household registry data, methods from applied microeconomics, and structural modeling to study the role of home prices and credit use in household finance and its role in macroeconomics.</p>
+  <p width="100%">I am a doctoral candidate at UCLA doing research in applied macroeconomics, using household registry data, methods from applied microeconomics, and structural modeling to study the role of home prices and credit use in household finance and its role in macroeconomics.
+    
+  I will be on the job market of 2023/2024.
+  </p>
+  <!--
   <div><img class="small_header" src="{{ page.featured_image | relative_url }}" width="20%"></div>
+  -->
 </div>
 
-
-I will be on the job market of 2023/2024.
-
-**Contact:** jesper bojeryd at ucla dot edu
-
 ---
+**Contact:** jesper bojeryd at ucla dot edu
 
 #  Recent updates:
 ## <a href="https://docs.google.com/viewer?url=https://github.com/bojeryd91/bojeryd91.github.io/raw/main/papers/DP18034-compressed.pdf">A new version of The Housing Wealth Effect: Quasi-Experimental Evidence</a>, with [Dany Kessel](https://sites.google.com/view/dany-kessel-phd-candidate/startsida), [Björn Tyrefors](http://btyrefors.se/), and [Roine Vestman](https://roinevestman.com/)
