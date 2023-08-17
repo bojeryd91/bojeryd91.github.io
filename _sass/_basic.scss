@@ -511,10 +511,11 @@ section {
 	}
 }
 .small_header_img {
-	opacity: 0.0;
+	width: 20%;
+	opacity: 0.5;
 	@include mq(laptop) {
-		width: 20%;
-		float: left;
-		opacity: 0.5;
+		width: 0%;
+		height: 0%;
+		opacity: 0.0;
 	}
 }
