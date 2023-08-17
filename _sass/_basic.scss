@@ -506,7 +506,6 @@ section {
 .small_header_p {
 	@include mq(laptop) {
 		width: 80%;
-		float: left;
 		opacity: 0.2;
 	}
 }
