@@ -507,5 +507,6 @@ section {
 	p {
 		@include mq(tabletl) {
 			width: 80%;
+		}
 	}
 }
