@@ -11,7 +11,7 @@ featured_image: /images/headshot1.jpg
     
   I will be on the job market of 2023/2024.
 
-  <strong>Contact:<-strong> jesper bojeryd at ucla dot edu
+  <strong>Contact:</strong> jesper bojeryd at ucla dot edu
   </p></div>
   <div class="small_header_img"><img src="{{ page.featured_image | relative_url }}"></div>
 </div>
