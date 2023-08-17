@@ -5,6 +5,8 @@ description: My research website.
 featured_image: /images/headshot1.jpg
 ---
 
+<img src({{ page.featured_image | relative_url }}) width="50%"></img>
+
 I am a doctoral candidate at UCLA doing research in applied macroeconomics, using household registry data, methods from applied microeconomics, and structural modeling to study the role of home prices and credit use in household finance and its role in macroeconomics.
 
 I will be on the job market of 2023/2024.
