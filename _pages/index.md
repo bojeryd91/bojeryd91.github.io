@@ -6,7 +6,7 @@ featured_image: /images/headshot1.jpg
 ---
 
 <div>
-  <p>I am a doctoral candidate at UCLA doing research in applied macroeconomics, using household registry data, methods from applied microeconomics, and structural modeling to study the role of home prices and credit use in household finance and its role in macroeconomics.</p>
+  <p width="80%">I am a doctoral candidate at UCLA doing research in applied macroeconomics, using household registry data, methods from applied microeconomics, and structural modeling to study the role of home prices and credit use in household finance and its role in macroeconomics.</p>
   <div><img class="small_header" src="{{ page.featured_image | relative_url }}" width="20%"></img></div>
 </div>
 
