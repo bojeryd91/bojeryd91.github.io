@@ -504,7 +504,9 @@ section {
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - By Jesper
 
 .small_header_container {
-	display: table;
+	content: "";
+        display: table;
+        clear: both;
 }
 
 .small_header_div {
