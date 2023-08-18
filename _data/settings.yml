@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Research'
       url: '/research'
     - title: 'CV'
-      url: '/cv'
+      url: 'https://www.jesperbojeryd.se/images/CV.pdf'
     - title: 'Teaching'
       url: '/teaching'
     - title: 'About'
