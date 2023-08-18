@@ -503,7 +503,7 @@ section {
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - By Jesper
 .small_header_p {
-	text-align: justify;
+	text-align: left;
 }
 
 .small_header_img {
@@ -511,6 +511,7 @@ section {
 	float: right;
 	vertical-align: top;
 	margin: 3%;
+	margin-top: 0%;
 	@include mq(tabletl) {
 		width: 0%;
 		height: 0%;
