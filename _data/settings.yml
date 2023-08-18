@@ -114,7 +114,7 @@ font_settings:
     line_height: 1.2
   h3:
     small_size: 14
-    medium_size: 20
+    medium_size: 18
     large_size: 18
     weight: 400
     letter_spacing: -0.02
@@ -141,8 +141,8 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 16
-    medium_size: 16
+    small_size: 14
+    medium_size: 14
     large_size: 16
     weight: 400
     letter_spacing: 0
