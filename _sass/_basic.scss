@@ -509,6 +509,7 @@ section {
 .small_header_img {
 	width: 25%;
 	float: right;
+	vertical-align: top;
 	margin: 3%;
 	@include mq(tabletl) {
 		width: 0%;
