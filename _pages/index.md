@@ -8,7 +8,7 @@ featured_image: /images/headshot1.jpg
 
 <div class="square">
   <div>
-      <img class="small_header_img" src="{{ page.featured_image | relative_url }}">
+      <img class="on_page_img" src="{{ page.featured_image | relative_url }}">
   </div>
   <p class="small_header_p">
         I am a doctoral candidate at UCLA doing research in applied macroeconomics, using household registry data, methods from applied microeconomics, and structural modeling to study the role of home prices and credit use in household finance and its role in macroeconomics. <br><br>
