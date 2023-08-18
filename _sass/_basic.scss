@@ -502,28 +502,14 @@ section {
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - By Jesper
-
-.small_header_container {
-	content: "";
-        display: table;
-        clear: both;
-}
-
-.small_header_container div {
-        float: left;
-}
-
-.small_header_div {
-	width: 70%;
-	margin-right: 5%;
-	@include mq(tabletl) {
-		width: 100%;
-		margin-right: 0%;
-	}
+.small_header_p {
+	text-align: justify;
 }
 
 .small_header_img {
 	width: 25%;
+	float: right;
+	margin: 3%;
 	@include mq(tabletl) {
 		width: 0%;
 		height: 0%;
