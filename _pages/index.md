@@ -7,13 +7,12 @@ featured_image: /images/headshot1.jpg
 
 
 <img class="on_page_img" src="{{ page.featured_image | relative_url }}">
-  <p>
-        I am a doctoral candidate at UCLA doing research in applied macroeconomics, using household registry data, methods from applied microeconomics, and structural modeling to study the role of home prices and credit use in household finance and its role in macroeconomics. <br><br>
+  
+I am a doctoral candidate at UCLA doing research in applied macroeconomics, using household registry data, methods from applied microeconomics, and structural modeling to study the role of home prices and credit use in household finance and its role in macroeconomics.
 
-    I will be on the job market of 2023/2024.<br><br>
+I will be on the job market of 2023/2024.
 
-    <strong>Contact:</strong> jesper bojeryd at ucla dot edu
-  </p>
+**Contact:** jesper bojeryd at ucla dot edu
 
 ---
 
