@@ -34,5 +34,15 @@ Following the oil price plunge of 2014, local income and home prices fell in the
 
 <!--- 
 ## How environmental tax policy influences car purchases, with [Björn Tyrefors](https://www.ifn.se/forskare/ifn-forskare/bjorn-tyrefors/) and [Roine Vestman](https://roinevestman.com/)
-The Swedish government has over the late 2010s and early 2020s used the bonus-malus system to encourage the purchases of fuel-efficient cars. The cutoffs are adjusted from time to time, and was in 2022 overnight adbruptly in-part abolished. In the Swedish motor vehicle registry we observe day-by-day transactions of each car, and we use this to analyze how car buyers respond to these changes and their environmental impact, and how buyers substitute between used, new, and different fuel-efficient cars. We also study the welfare transfer between different types of buyers, induced by the price sorting of fuel efficiency.
+The Swedish government has over the late 2010s and early 2020s used the bonus-malus system to encourage the purchases of fuel-efficient cars. The cutoffs are adjusted from time to time and was in 2022 overnight abruptly in-part abolished. In the Swedish motor vehicle registry we observe day-by-day transactions of each car, and we use this to analyze how car buyers respond to these changes and their environmental impact, and how buyers substitute between used, new, and different fuel-efficient cars. We also study the welfare transfer between different types of buyers, induced by the price sorting of fuel efficiency.
 --->
+
+<br>
+<div class="square">
+    <div>
+      <img style="float:right; margin:5px" src="{{ page.featured_image | relative_url }}">
+    </div>
+  <p style="text-align: justify;">
+        This is a longer text that I use for experimental purposes for a couple of minutes. Empirical studies have estimated a big range of consumption response sizes to changes in house prices. Using a quasi-experiment, we estimate a shock of –19.4 percent to house prices in the area surrounding an airport in Stockholm after its operations were unexpectedly continued as a result of political bargaining behind closed doors. This source of price divergence is ideal for identifying housing wealth effects since it is local and unrelated to variations in macroeconomic conditions. Using a household data set with information on the location of primary residence relative to the airport, we find a short-run elasticity with respect to new car purchases of 0.39, corresponding to a one-year marginal propensity for car expenditures of 0.12 cents per dollar lost in housing wealth. Households with high loan-to-value ratios and little bank deposits respond the most. A quantitative model is consistent with the empirical findings and pinpoints important determinants of the response size, which may explain the variation in previous estimates.
+  </p>
+</div>
