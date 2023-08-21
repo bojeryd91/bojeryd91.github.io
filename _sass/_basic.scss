@@ -506,9 +506,9 @@ section {
 	max-width: 25%;
 	max-height: 125px;
 	float: right;
-	vertical-align: bottom;
+	vertical-align: top;
 	margin: 5%;
-	margin-bottom: 0%;
+	margin-top: 0%;
 	@include mq(tabletl) {
 		width: 0%;
 		height: 0%;
