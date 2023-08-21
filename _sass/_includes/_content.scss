@@ -50,19 +50,19 @@
 
 .single {
 	margin-top: 0;
-	padding: 20px 0;
+	padding: 0px 0;
 	min-height: 100vh;
 
 	@include mq(tabletp) {
-		padding: 40px 0;
+		padding: 0px 0;
 	}
 
 	@include mq(tabletl) {
-		padding: 30px 40px 40px;
+		padding: 0px 40px 40px;
 	}
 
 	@include mq(laptop) {
-		padding: 40px 60px 60px;
+		padding: 0px 60px 60px;
 	}
 
 	h1, h2, h3, h4, h5, h6, p, ul, ol {
