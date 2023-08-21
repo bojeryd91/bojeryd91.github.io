@@ -6,18 +6,18 @@
 
 .intro {
 	margin-top: 0;
-	padding: 5px 0 0;
+	padding: 30px 0 0;
 
 	@include mq(tabletp) {
-		padding: 5px 0 0;
+		padding: 20px 0 0;
 	}
 
 	@include mq(tabletl) {
-		padding: 5px 40px 0;
+		padding: 20px 40px 0;
 	}
 
 	@include mq(laptop) {
-		padding: 10px 60px 0;
+		padding: 30px 60px 0;
 	}
 
 	.wrap {
