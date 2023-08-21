@@ -503,10 +503,11 @@ section {
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - By Jesper
 .on_page_img {
-	width: 25%;
+	max-width: 25%;
+	max-height: 50px;
 	float: right;
-	vertical-align: top;
-	margin: 3%;
+	vertical-align: bottom;
+	margin: 5%;
 	margin-top: 0%;
 	@include mq(tabletl) {
 		width: 0%;
