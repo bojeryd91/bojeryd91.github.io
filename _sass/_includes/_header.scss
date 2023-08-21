@@ -9,11 +9,11 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
-	padding: 40px 20px;
+	padding: 20px 20px;
 	background: $overlay-background-color;
 
 	@include mq(tabletp) {
-		padding: 80px 40px;
+		padding: 30px 40px;
 	}
 
 	@include mq(tabletl) {
