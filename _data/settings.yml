@@ -146,7 +146,7 @@ font_settings:
     large_size: 16
     weight: 400
     letter_spacing: 0
-    line_height: 1.2
+    line_height: 1.4
   blockquote:
     small_size: 14
     medium_size: 15
