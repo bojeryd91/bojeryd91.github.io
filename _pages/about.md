@@ -4,6 +4,8 @@ description: Information about my life outside research and academia
 featured_image: /images/skiing.jpg
 ---
 
+<img class="on_page_img" src="{{ page.featured_image | relative_url }}">
+
 I am a Swedish expat and 6th year PhD student at UCLA, with a previous history as a research assistant at the Swedish House of Finance at Stockholm School of Economics, and the Riksbank (the Swedish Central Bank).
 
 My research interests lie in empirical macroeconomics in general, and I work with micro-level heterogeneity and exploit different exposures to shocks to disentangle transmission channels and explain aggregate outcomes. I have many years of experience using household data in empirical micro, and I am currently exploring questions of monetary policy, credit use, and house prices using these skills. I also do work in financial macroeconomics.
