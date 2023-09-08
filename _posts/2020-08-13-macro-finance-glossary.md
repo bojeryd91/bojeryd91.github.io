@@ -16,27 +16,27 @@ I've done some searching online, but so far failed to find any glossary of frequ
 **Capital --** The interpretation of capital depends on the context. In macro, it usually refers to some good that together with labor is used to produce output (e.g., capital can include tractors, computers, and houses). These goods can be referred to as *capital assets*. However, in finance, just *capital* often means the amount of financial assets held (e.g., cash, bonds, liquid stocks) or investments raised. It may be expanded to include a company's capital assets.
 
 
-**Capital Asset Pricing Model --** the **CAPM**. The model can be derived from several representative agent models, and boils down to that the expected return $E[R_i]$ of an asset $i$ is
+**Capital Asset Pricing Model --** the **CAPM**. The model can be derived from several representative agent models and boils down to that the expected return $E[R_i]$ of an asset $i$ is
 
 $$E[R_i] = R_f + \beta_i(E[R_M] - R_f),$$
 
 where $R_f$ is the risk-free rate, $\beta_i$ is asset $i$'s "beta", and $E[R_M]$ is the expected return of the market.
 
-The coefficient $\beta_i$ reflects how the asset correlates with the overall market and how much risk it adds to the portfolio. If $\beta$ is positive, the asset has a higher expected return when the overall market's expected return increases. Assets with negative $\beta$ react in the opposite direction of markets; in a recession when markets are falling, negative-$\beta$ assets increase in value because they are expected to yield higher returns.
+The coefficient $\beta_i$ reflects how the asset correlates with the overall market and how much risk it adds to the portfolio. If $\beta$ is positive, the asset has a higher expected return when the overall market's expected return increases. Assets with negative $\beta$ react in the opposite direction of markets; in a recession when markets are falling, negative-$\beta$ assets rise in value because they are expected to yield higher returns.
 
 You can read more about the CAPM at  <a href="https://www.investopedia.com/terms/c/capm.asp">https://www.investopedia.com/terms/c/capm.asp</a>  or  <a href="https://en.wikipedia.org/wiki/Capital_asset_pricing_model">https://en.wikipedia.org/wiki/Capital_asset_pricing_model</a>.
 
 
 
-**Capital requirement --** A set of rules of financial regulators how much capital a bank should hold relative to their risky assets. E.g., in Basel III banks have to hold 6% worth of Tier 1 capital in relation to risk-weighted assets.
+**Capital requirement --** A set of rules of financial regulators on how much capital a bank should hold relative to their risky assets. E.g., in Basel III banks have to hold 6% worth of Tier 1 capital in relation to risk-weighted assets.
 
 
 
-**Carry trade --** this trade starts with borrowing at a low-interest rate to invest in an asset with a higher return. Often, the loan is denominated in a different currency than the asset. This adds risk to the investment.
+**Carry trade --** This trade starts with borrowing at a low interest rate to invest in an asset with a higher return. Often, the loan is denominated in a different currency than the asset. This adds risk to the investment.
 
 
 
-**Certificate of deposit (CD) --** bank and credit unions issue certificates of deposits to raise funds. A depositor leaves money with the bank for a pre-determined time at a higher deposit rate they would receive in a checking account. Terms vary and often allow the depositor to do a limited number of withdrawals or at a fixed cost.
+**Certificate of deposit (CD) --** Bank and credit unions issue certificates of deposits to raise funds. A depositor leaves money with the bank for a pre-determined time at a higher deposit rate they would receive in a checking account. Terms vary and often allow the depositor to do a limited number of withdrawals or at a fixed cost.
 
 
 
@@ -185,6 +185,8 @@ Also MBS's and ABS's are sold in the money market.
 **Mutual fund --** A mutual fund pools money from many investors and invest it in a mix of stocks, bonds, and other financial instruments. Returns less a management fee are kept by the original investors.
 
 
+**NBFIs --** Nonbank financial institutions
+
 
 **Open market operations** (**OMOs**) -- To achieve the Fed funds target, the SOMA at the New York Federal Reserve Bank buys or sells government securities of short maturity until the overnight lending rate between banks is within a target range.
 
@@ -245,7 +247,7 @@ An *ex-ante* Sharpe ratio uses expected return and predicted volatility, while t
 
 **Shiller P/E** or **CAPE --** Cyclically adjusted price-to-earnings ratio "is defined as price divided by the average of ten years of earnings, adjusted for inflation."
 
-
+**SIFIs --** Systemically important financial institutions
 
 **Spot price --** Current market price of an immediate transaction; e.g., selling a bond here and now -- on the *spot* -- for a price $q$. Then, $q$ is the spot price.
 
