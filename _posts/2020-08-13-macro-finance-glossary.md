@@ -105,6 +105,8 @@ Reference: Bernanke, Gertler, and Gilchrist (1996).
 
 **FIMA Repo Facility (Foreign and International Monetary Authorities) --** A Fed facility where e.g. foreign central banks can buy repos on U.S. treasuries for USDs. This provides foreign financial markets with access to dollars. (If a country is in need of dollars, that country's central bank can exchange a U.S. treasury for dollars, and lend the dollars to whoever needs it locally.)
 
+**Fiscal dominance --** In this regime, the government chooses its level of debt, and in consequence, the rate of inflation (fiscal policy plays an active role). Monetary policy is passive and adjusts the cost of borrowing in accordance.
+
 
 **Forward price --** A contracted price of a specific future transaction.
 
@@ -169,12 +171,12 @@ From LEO Svensson: "'Leaning against the wind' (LAW), that is, tighter monetary 
 **Modigliani–Miller theorem --** (Or, the&nbsp;**capital structure irrelevance principle**). This is a theoretical result that in a frictionless world (no taxes, wedges, bankruptcy costs, information asymmetry, etc.) "the enterprise value of a firm is unaffected by how that firm is financed." I.e., any way of raising capital will be equivalent, e.g., equity issuance, short-bond or long-bond financing. The theorem generalizes from private to public debt (see Bolton and Huang's "The capital structure of nations", 2017).
 
 
-
-**Money market --** A decentralized market of banks, credit unions (who sell CD's), companies (who issue short-term corporate bonds), the government (who issues short-term treasuries) and investors such as money market funds and insurance companies that exchange short-term liabilities for money. The duration of securities are often less than 1 year. A big share of the money market consists of interbank lending, that banks lend each other reserves in exchange for, for example, repos.
-
+**Monetary dominance --** This is a regime in which monetary policy determines inflation while fiscal policy stabilizes the debt. For the opposite case, see Fiscal dominance.
 
 
-Also MBS's and ABS's are sold in the money market.
+**Money market --** A decentralized market of banks, credit unions (who sell CDs), companies (who issue short-term corporate bonds), the government (who issue short-term treasuries), and investors such as money market funds and insurance companies that exchange short-term liabilities for money. The duration of securities are often less than 1 year. A big share of the money market consists of interbank lending, where banks lend each other reserves in exchange for, for example, repos.
+
+Also, MBSs and ABSs are sold in the money market.
 
 
 
