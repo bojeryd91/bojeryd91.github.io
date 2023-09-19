@@ -74,7 +74,7 @@ When a bigger investor in the money market "deposits" money in a bank, we say th
 
 **Delinquent --** commonly refers to a situation where a borrower is late or overdue on a payment, such as income taxes, a mortgage, an automobile loan, or a credit card bill.
 
-
+**Dowish (monetary policy) --** see *Hawkish vs dowish* (monetary policy) below.
 
 **Equity fund --** (Or, **stock fund**.) An equity fund is a mutual fund that invests mainly in stocks. It can be actively or passively (index fund) managed.
 
@@ -91,7 +91,7 @@ When a bigger investor in the money market "deposits" money in a bank, we say th
 
 During the turmoil of the Financial crisis of 2007--2008, the U.S. government took back control of Fannie Mae (and Freddie Mac). As of late 2022, it is still under government charter.
 
-See also Freddie Mac and Ginnie Mae below.
+See also *Freddie Mac* and *Ginnie Mae* below.
 
 
 **Financial accelerator --** a mechanism of macroeconomics that exacerbates shocks through frictions in financial markets. E.g., if a firm usually borrows using its current net worth as collateral, a shock that lowers its value decreases the firm's ability to raise credit to invest with. This further depresses its net worth, which in return depresses it even further; the mechanism is an acceleration.
@@ -126,6 +126,8 @@ Reference: Bernanke, Gertler, and Gilchrist (1996).
 
 
 $$ \text{haircut} = \frac{\text{market price} - \text{value as collateral}}{\text{market price}}.$$
+
+**Hawkish vs dowish (monetary policy) --** A hawkish policy stance is one that focuses on keeping inflation in control or at some certain level. This is often contrasted to *dowish* policy, where policymakers put more weight on other variables such as unemployment.
 
 
 **High-yield bond --** a bond with a lower credit grade than an investment-grade bond. The yield is therefore higher. Also known as **junk bond**, or **non-investment bond**.
