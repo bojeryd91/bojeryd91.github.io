@@ -9,6 +9,7 @@ I've done some searching online, but so far failed to find any glossary of frequ
 
 **Abnormal returns --** Difference between an asset's return and its expected return. A coarse estimate is to take the realized return of the asset and subtract the return of a benchmark index such as the S&P 500. More sophisticated is to use the method of MacKinley, 1997 (Event Studies in Economics and Finance).
 
+**Backus--Smith puzzle --** In theory, consumption should increase with the real exchange rate (making it cheaper to buy from abroad, leading to rising consumption). However, in data, the correlation is either zero or negative, which creates a puzzle.
 
 **Bankruptcy --**  "legal finding that imposes court supervision over the financial affairs of those who are insolvent or in default."
 
