@@ -12,7 +12,7 @@ I am a doctoral candidate at UCLA doing research in applied macroeconomics, usin
 
 I will be on the job market of 2023/2024.
 
-**Contact:** jesper bojeryd at ucla dot edu
+**Contact:** jesper h w bojeryd at gmail dot com
 
 ---
 
