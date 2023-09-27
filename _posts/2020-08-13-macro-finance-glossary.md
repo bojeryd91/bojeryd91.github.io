@@ -4,7 +4,7 @@ date: 2020-08-13 00:00:00
 excerpt: This is my ongoing project to collect a glossary of words and concepts used in macro-finance, *which I keep on forgetting*...
 ---
 
-I've done some searching online, but so far failed to find any glossary of frequently used macro-finance term. So I started to put together my own. In my experience, a good way to memorize concepts is to write them down in my own words; as I revisit my glossary, I edit definitions, correct my previous misconceptions, and try to condense the text. It's not only a good way to retain the meaning of the terms, but also a chance to practice my writing and reading skills. Enjoy! 😊
+I've done some searching online, but so far failed to find any glossary of frequently used macro-finance terms. So I started to put together my own. In my experience, a good way to memorize concepts is to write them down in my own words; as I revisit my glossary, I edit definitions, correct my previous misconceptions, and try to condense the text. It's not only a good way to retain the meaning of the terms, but also a chance to practice my writing and reading skills. Enjoy! 😊
 
 
 **Abnormal returns --** Difference between an asset's return and its expected return. A coarse estimate is to take the realized return of the asset and subtract the return of a benchmark index such as the S&P 500. More sophisticated is to use the method of MacKinley, 1997 (Event Studies in Economics and Finance).
@@ -59,6 +59,8 @@ When a bigger investor in the money market "deposits" money in a bank, we say th
 
 **Cost-push inflation --** Rising consumer prices caused by increases in the cost of production -- i.e., cost of labor and raw materials. The concept is different from demand-driven inflation, where firms raise prices because consumers have higher willingness to pay.
 
+
+**Current account --** A country's current account represents its net transactions with the rest of the world over some period of time, often per year. It is the sum of exports of goods and services, minus imports, and the net earnings from international investments. Net transfers are also included.
 
 
 **Debt restructuring --** An agent (a company, country, or individual) that holds debt they cannot repay given foreseeable future cash flows can enter debt restructuring. They renegotiate the delinquent debt, creditors remit some, and the agent continues some form of operations (at some reduced level).
