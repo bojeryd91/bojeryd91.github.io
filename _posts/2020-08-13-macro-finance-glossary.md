@@ -151,6 +151,7 @@ $$ \text{haircut} = \frac{\text{market price} - \text{value as collateral}}{\tex
 
 **Investment-grade bond --** This is a safer bond, with a rating Baa (by Moody's) or BBB (by S&P and Fitch) or above. Also known as a **high-grade bond**. Yields are lower because so is the risk of default.
 
+**IOU --** Short for ``I owe you'', i.e., debt. 
 
 
 **IPO --** Abbrev.: Initial public offering.
