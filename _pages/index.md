@@ -10,7 +10,7 @@ featured_image: /images/headshot1.jpg
   
 I am a doctoral candidate at UCLA doing research in applied macroeconomics, using household registry data, methods from applied microeconomics, and structural modeling to study the role of home prices and credit use in household finance and its role in macroeconomics.
 
-My job market paper <a href="https://www.jesperbojeryd.se/papers/jmp_placeholder.pdf" target="_blank">is here</a>
+My job market paper will be available <a href="https://www.jesperbojeryd.se/papers/jmp_placeholder.pdf" target="_blank">here</a>
 
 **Contact:** bojeryd91 at gmail dot com
 
