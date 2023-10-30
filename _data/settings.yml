@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Research'
       url: '/research'
     - title: 'CV'
-      url: '/CV'
+      url: '/cv'
     - title: 'Teaching'
       url: '/teaching'
     - title: 'About'
