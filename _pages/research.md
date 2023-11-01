@@ -6,13 +6,18 @@ featured_image: /images/headshot1.jpg
 
 # [Job market paper: Should I stay or should I go? The role of housing in understanding limited inter-regional worker mobility](https://www.jesperbojeryd.se/jmp)
 
+Link [here](https://www.jesperbojeryd.se/jmp)
+
 Why are many workers reluctant to leave places in economic decline? This paper explores the role of housing in inter-labor market area (LMA) migration following a regional economic shock. I study the migration response of workers in the oil-exporting region of Stavanger, Norway, following the 2014 global oil price plunge which resulted in a persistent reduction in the region's labor demand and home prices. Leveraging administrative data, I empirically document an increase in the leaving rate of renters and homeowners with less housing wealth, in contrast to a decrease among homeowners with more housing wealth. The richness of the data allows me to control for potential confounding factors and selection into housing tenure. To explain my findings, I employ a life-cycle model with endogenous home prices, and location, housing, and saving choices that replicate the reduced-form results. It shows that the adverse shock to housing wealth reduces homeowners' value of leaving which reduces their leaving rate. For homeowners with the most housing wealth, the net effect is a reduction in the leaving rate. The model also shows that moving subsidies that are unconditional on worker characteristics influence the leaving rate of renters more than homeowners because renters are on average more liquidity-constrained. I also provide additional empirical results on the changes in the inflow to Stavanger: while the young and high-income workers avoid the region, renters and older workers of lower income and with relatives in the region arrive at the same or a higher rate than before. I.e., the population composition does not only change due to who leaves but also who arrives.
 
 
 &nbsp;  
 # Working papers
 
-## <a href="https://www.jesperbojeryd.se/papers/DP18034-compressed.pdf" target="_blank">The Housing Wealth Effect: Quasi-Experimental Evidence</a>, with [Dany Kessel](https://sites.google.com/view/dany-kessel-phd-candidate/startsida), [Björn Tyrefors](http://btyrefors.se/), and [Roine Vestman](https://roinevestman.com/)
+## [The Housing Wealth Effect: Quasi-Experimental Evidence](https://www.jesperbojeryd.se/papers/DP18034-compressed.pdf), with [Dany Kessel](https://sites.google.com/view/dany-kessel-phd-candidate/startsida), [Björn Tyrefors](http://btyrefors.se/), and [Roine Vestman](https://roinevestman.com/)
+
+Link [here](https://www.jesperbojeryd.se/papers/DP18034-compressed.pdf)
+
 Empirical studies have estimated a big range of consumption response sizes to changes in house prices. Using a quasi-experiment, we estimate a shock of –19.4 percent to house prices in the area surrounding an airport in Stockholm after its operations were unexpectedly continued as a result of political bargaining behind closed doors. This source of price divergence is ideal for identifying housing wealth effects since it is local and unrelated to variations in macroeconomic conditions. Using a household data set with information on the location of primary residence relative to the airport, we find a short-run elasticity with respect to new car purchases of 0.39, corresponding to a one-year marginal propensity for car expenditures of 0.12 cents per dollar lost in housing wealth. Households with high loan-to-value ratios and little bank deposits respond the most. A quantitative model is consistent with the empirical findings and pinpoints important determinants of the response size, which may explain the variation in previous estimates.
 
 &nbsp;  
@@ -23,6 +28,8 @@ Following the oil price plunge of 2014, local income and home prices fell in the
 
 ## [Heterogeneous effects of QE on corporate bonds and firm outcomes](http://www.adambaybutt.org/uploads/1/2/4/9/124972193/baybutt_bojeryd-2021-qe_and_firms.pdf), with [Adam Baybutt](http://www.adambaybutt.org/)
 Does lowering corporate bond rates by QE in itself stimulate firm investment and other real outcomes? By an event-time approach with TRACE data, we try to disentangle channels of large-scale asset purchases to the firm side of the U.S. economy.
+
+Link [here](http://www.adambaybutt.org/uploads/1/2/4/9/124972193/baybutt_bojeryd-2021-qe_and_firms.pdf)
 
 ## Car purchases, indebtedness and monetary policy
 Using the universe of car transactions matched to annual census data in Sweden, I study how the cash-flow channel of monetary policy affects households’ decisions to buy cars. Draft to come soon.
