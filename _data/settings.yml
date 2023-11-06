@@ -12,6 +12,8 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
+    - title: 'Job market paper'
+      url: '/papers/jmp_placeholder'
     - title: 'Research'
       url: '/research'
     - title: 'CV'
