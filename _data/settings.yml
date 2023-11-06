@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Home'
       url: '/'
     - title: 'Job market paper'
-      url: '/jmp'
+      url: '/jmp.html'
     - title: 'Research'
       url: '/research'
     - title: 'CV'
