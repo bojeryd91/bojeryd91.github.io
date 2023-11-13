@@ -141,9 +141,9 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 14
-    medium_size: 14
-    large_size: 16
+    small_size: 12
+    medium_size: 12
+    large_size: 14
     weight: 400
     letter_spacing: 0
     line_height: 1.4
