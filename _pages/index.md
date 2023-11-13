@@ -12,7 +12,7 @@ I am a doctoral candidate at UCLA doing research in applied macroeconomics, usin
 
 &nbsp;  
 
-I am on the 2023&ndash;2024 job market and my job market paper will be available <a href="https://www.jesperbojeryd.se/papers/jmp_placeholder.pdf" target="_blank">here</a>
+I am on the 2023&ndash;2024 job market and my job market paper will be available <a href="https://www.jesperbojeryd.se/papers/Bojeryd JMP Should I stay or should I go.pdf#style.css?the=fonz.pdf" target="_blank">here</a>
 
 &nbsp;  
 
