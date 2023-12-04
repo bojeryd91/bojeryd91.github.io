@@ -12,7 +12,7 @@ I am a doctoral candidate at UCLA doing research in applied macroeconomics, usin
 
 &nbsp;  
 
-I am on the 2023&ndash;2024 job market. </br><a href="https://www.jesperbojeryd.se/papers/Bojeryd JMP Should I stay or should I go.pdf#style.css?the=fonz.pdf" target="_blank" class="button">JMP</a>
+I am on the 2023&ndash;2024 job market. <br/><a href="https://www.jesperbojeryd.se/papers/Bojeryd JMP Should I stay or should I go.pdf#style.css?the=fonz.pdf" target="_blank" class="button">JMP</a>
 
 ## JMP: *Should I stay or should I go? The role of housing in understanding limited inter-regional worker mobility*
 
