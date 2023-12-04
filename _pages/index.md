@@ -12,7 +12,9 @@ I am a doctoral candidate at UCLA doing research in applied macroeconomics, usin
 
 &nbsp;  
 
-I am on the 2023&ndash;2024 job market. My JMP, *Should I stay or should I go? The role of housing in understanding limited inter-regional worker mobility*, is available <a href="https://www.jesperbojeryd.se/papers/Bojeryd JMP Should I stay or should I go.pdf#style.css?the=fonz.pdf" target="_blank" class="button">here</a>
+I am on the 2023&ndash;2024 job market. <a href="https://www.jesperbojeryd.se/papers/Bojeryd JMP Should I stay or should I go.pdf#style.css?the=fonz.pdf" target="_blank" class="button">JMP</a>
+
+My JMP, *Should I stay or should I go? The role of housing in understanding limited inter-regional worker mobility*
 
 Using Norwegian administrative data, I study the role of housing tenure and wealth on the decision to stay or leave a region that experiences a permanent change in economic conditions. I find that renters and low-housing wealth homeowners increase their leaving rate compared to before the shock while high-housing wealth homeowners decrease their leaving rate. A spatial life-cycle model with housing and savings decisions explains the results: The regional shock to earnings leads to a drop in regional home prices and homeowners' wealth. The reduction is greater for homeowners with more housing wealth and lowers the value of leaving the location. This causes a reduction in the leaving rate and homeowners are worse impacted by the joint shock in terms of welfare. Renters, on the other hand, benefit from falling rents but the value of leaving has not decreased due to the absence of a wealth effect. On net, they flow out of the region.
 
