@@ -42,3 +42,9 @@ Using the universe of car transactions matched to annual census data in Sweden, 
 ## How environmental tax policy influences car purchases, with [Björn Tyrefors](https://www.ifn.se/forskare/ifn-forskare/bjorn-tyrefors/) and [Roine Vestman](https://roinevestman.com/)
 The Swedish government has over the late 2010s and early 2020s used the bonus-malus system to encourage the purchases of fuel-efficient cars. The cutoffs are adjusted from time to time and was in 2022 overnight abruptly in-part abolished. In the Swedish motor vehicle registry we observe day-by-day transactions of each car, and we use this to analyze how car buyers respond to these changes and their environmental impact, and how buyers substitute between used, new, and different fuel-efficient cars. We also study the welfare transfer between different types of buyers, induced by the price sorting of fuel efficiency.
 --->
+
+
+&nbsp;  
+#  Other
+## [Long Time Integration of Molecular Dynamics at Constant Temperature with the Symplectic Euler Method](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A808180&dswid=3888)
+In my master thesis, I study the efficiency of the symplectic Euler method with an Ornstein-Uhlenbeck step in estimating parameters of physical systems that require long-time integration.
