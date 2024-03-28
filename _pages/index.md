@@ -18,8 +18,6 @@ I am a doctoral candidate at UCLA doing research in applied macroeconomics, usin
 
 &nbsp;  
 
-&nbsp;  
-
 #  Recent updates:
 ## Should I stay or should I go? The role of housing in understanding limited inter-regional worker mobility
 
