@@ -53,6 +53,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+exclude:
+  - _projects/
+
 paginate: 6
 paginate_path: "/blog/page:num/"
 
