@@ -78,7 +78,7 @@ font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Merriweather:300,400|Muli:400,400i,600" rel="stylesheet">'
   title_font: '"Merriweather", serif'
   body_font: '"Merriweather", sans-serif'
-  regular_weight: 400
+  regular_weight: 200
   bold_weight: 800
   site_title:
     small_size: 25
@@ -145,7 +145,7 @@ font_settings:
     small_size: 12
     medium_size: 13
     large_size: 15
-    weight: 400
+    weight: 200
     letter_spacing: 0
     line_height: 1.4
   blockquote:
