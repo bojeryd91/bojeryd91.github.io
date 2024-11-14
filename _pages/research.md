@@ -14,7 +14,7 @@ Why are many workers reluctant to leave places in economic decline? This paper e
 &nbsp;  
 # Working papers
 
-## [The Housing Wealth Effect: Quasi-Experimental Evidence](https://www.jesperbojeryd.se/papers/Vestman%20et%20al%202023%20The%20housing%20wealth%20effect%20Quasi-experimental%20evidence.pdf), with [Dany Kessel](https://sites.google.com/view/dany-kessel-phd-candidate/startsida), [Björn Tyrefors](http://btyrefors.se/), and [Roine Vestman](https://roinevestman.com/) **Submitted**
+## [The Housing Wealth Effect: Quasi-Experimental Evidence](https://www.jesperbojeryd.se/papers/Vestman%20et%20al%202023%20The%20housing%20wealth%20effect%20Quasi-experimental%20evidence.pdf), with [Dany Kessel](https://sites.google.com/view/dany-kessel-phd-candidate/startsida), [Björn Tyrefors](http://btyrefors.se/), and [Roine Vestman](https://roinevestman.com/) -- Submitted
 
 Link [here](https://www.jesperbojeryd.se/papers/Vestman%20et%20al%202023%20The%20housing%20wealth%20effect%20Quasi-experimental%20evidence.pdf)
 
