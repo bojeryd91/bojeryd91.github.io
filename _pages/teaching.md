@@ -5,7 +5,7 @@ featured_image: /images/headshot1.jpg
 ---
 
 ##  Lecturer
-### Quantitative macroeconomics (Stockholm University, EC 7218)
+### Quantitative macroeconomics (Stockholm University, EC7218)
 - Fall 2024: <a href="https://www.jesperbojeryd.se/misc/teaching_evals/lecturer_evaluations_2024F_EC7218.pdf" target="_blank">view here</a>
 
 ##  Teaching assistant
