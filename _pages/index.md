@@ -12,7 +12,7 @@ I am a postdoc at Stockholm University, Department of Economics, doing research 
 
 &nbsp;  
 
-**Contact:** jesper hw bojeryd at gmail dot com
+**Contact:** jesper dot hw dot bojeryd at gmail dot com
 
 &nbsp;
 
