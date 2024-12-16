@@ -4,6 +4,10 @@ description: Courses I have been involved in
 featured_image: /images/headshot1.jpg
 ---
 
+##  Lecturer
+### Quantitative macroeconomics (Stockholm University, EC7218)
+- Fall 2024: <a href="https://www.jesperbojeryd.se/misc/teaching_evals/lecturer_evaluations_2024F_EC7218.pdf" target="_blank">view here</a>
+
 ##  Teaching assistant
 ### Statistics for economists (UCLA, Econ 41)
 - Fall 2019: <a href="https://www.jesperbojeryd.se/misc/teaching_evals/TA_evaluations_2019F_Econ_41.pdf" target="_blank">view here</a>
