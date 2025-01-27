@@ -25,6 +25,7 @@ I am a postdoc at Stockholm University, Department of Economics, doing research 
 #  Recent updates:
 
 ## Jan 24, 2025 -- Revise and resubmit at the Journal of Monetary Economics
+My paper with Björn, Dany, and Roine -- The housing wealth effect: Evidence from quasi-experimental evidence -- is R&R at the JME. Let's dig in!
 
 
 ## August 1, 2024 -- Off to the Department of Economics at Stockholm University as a post-doctoral researcher!
