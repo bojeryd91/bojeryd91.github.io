@@ -14,10 +14,6 @@ I am a postdoc at Stockholm University, Department of Economics, doing research 
 
 **Contact:** jesper dot hw dot bojeryd at gmail dot com
 
-&nbsp;
-
-**I am on the job market 2024–2025. Please reach out if you have any questions for me.**
-
 ---
 
 &nbsp;  
