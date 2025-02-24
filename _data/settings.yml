@@ -34,7 +34,7 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: 'https://twitter.com/BojerydJesper'
+  twitter_url:
   instagram_url: 'https://www.instagram.com/jeppeboyye/'
   snapchat_url: ''
   youtube_url: ''
@@ -61,6 +61,7 @@ social_settings:
   linkedin_url: 'https://www.linkedin.com/in/jesperbojeryd'
   google_scholar_url: 'https://scholar.google.com/citations?user=oaOH0ogAAAAJ&hl=en'
   strava_url: 'https://www.strava.com/athletes/jbjeryd'
+  bluesky_url: 'https://bsky.app/profile/jesper-bojeryd.bsky.social'
 
 color_settings:
   background_color: '#ffffff'
