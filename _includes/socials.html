@@ -6,7 +6,7 @@
 			{% if url[0] == "google_scholar_url" %}
 				{% include  google_scholar.html %}
 			{% elsif url[0] == "bluesky_url" %}
-				<i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+				{% include  bsky.html %}
 			{% else %}
 				<i class="fab fa-{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }}" aria-hidden="true"></i>
 			{% endif %}
