@@ -62,3 +62,7 @@
 	left: 50%;
 	@include translate(-50%,-52%);
 }
+
+.fa-bsky {
+	fill: $overlay-background-color;;
+}
