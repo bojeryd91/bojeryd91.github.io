@@ -20,6 +20,9 @@ I am a postdoc at Stockholm University, Department of Economics, doing research 
 
 #  Recent updates:
 
+## Oct 15, 2025 -- Norges Bank WP out
+The latest version of Should I stay or should I go? can be found at [https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-132025/][https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-132025/]
+
 ## Jan 24, 2025 -- Revise and resubmit at the Journal of Monetary Economics
 My paper with Björn, Dany, and Roine -- The housing wealth effect: Evidence from quasi-experimental evidence -- is R&R at the JME. Let's dig in!
 
