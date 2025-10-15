@@ -4,9 +4,9 @@ description: A comprehensive list of my research
 featured_image: /images/headshot1.jpg
 ---
 
-# [Job market paper: Should I stay or should I go? The role of housing in understanding limited inter-regional worker mobility](https://www.jesperbojeryd.se/jmp)
+# [Job market paper: Should I stay or should I go? The role of housing in understanding limited inter-regional worker mobility](https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-132025/)
 
-Link [here](https://www.jesperbojeryd.se/jmp)
+Link [here](https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-132025/)
 
 Why are many workers reluctant to leave places in economic decline? This paper explores the role of housing in inter-labor market area (LMA) migration following a regional economic shock. I study the migration response of workers in the oil-exporting region of Stavanger, Norway, following the 2014 global oil price plunge which resulted in a persistent reduction in the region's labor demand and home prices. Leveraging administrative data, I empirically document an increase in the leaving rate of renters and homeowners with less housing wealth, in contrast to a decrease among homeowners with more housing wealth. The richness of the data allows me to control for potential confounding factors and selection into housing tenure. To explain my findings, I employ a life-cycle model with endogenous home prices, and location, housing, and saving choices that replicate the reduced-form results. It shows that the adverse shock to housing wealth reduces homeowners' value of leaving which reduces their leaving rate. For homeowners with the most housing wealth, the net effect is a reduction in the leaving rate. The model also shows that moving subsidies that are unconditional on worker characteristics influence the leaving rate of renters more than homeowners because renters are on average more liquidity-constrained. I also provide additional empirical results on the changes in the inflow to Stavanger: while the young and high-income workers avoid the region, renters and older workers of lower income and with relatives in the region arrive at the same or a higher rate than before. I.e., the population composition does not only change due to who leaves but also who arrives.
 
