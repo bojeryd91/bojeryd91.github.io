@@ -111,6 +111,9 @@ Reference: Bernanke, Gertler, and Gilchrist (1996).
 **Fiscal dominance --** In this regime, the government chooses its level of debt, and in consequence, the rate of inflation (fiscal policy plays an active role). Monetary policy is passive and adjusts the cost of borrowing in accordance.
 
 
+**Foreign Direct Investment (FDI) --** refers to investments made by a company or government into a foreign project or firm.
+
+
 **Forward price --** A contracted price of a specific future transaction.
 
 
