@@ -258,7 +258,9 @@ An *ex-ante* Sharpe ratio uses expected return and predicted volatility, while t
 
 **Shiller P/E** or **CAPE --** Cyclically adjusted price-to-earnings ratio "is defined as price divided by the average of ten years of earnings, adjusted for inflation."
 
-**SIFIs --** Systemically important financial institutions
+**Seigniorage --** The earnings a government/central bank makes when issuing money. E.g., One $10 bill costs about 11 cents to produce. Thus, the seigniorage is $9.89 for a $10 bill.
+
+**SIFIs --** Systemically Important Financial Institutions
 
 **Spot price --** Current market price of an immediate transaction; e.g., selling a bond here and now -- on the *spot* -- for a price $q$. Then, $q$ is the spot price.
 
