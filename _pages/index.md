@@ -20,6 +20,9 @@ I am a postdoc at Stockholm University, Department of Economics, doing research 
 
 #  Recent updates:
 
+## Nov 11, 2025 -- Another Norges Bank WP :D
+My great co-authors and I have put together a WP of one of my dissertation chapters: What do 12 billion card transactions say about house prices and consumption? Check it out at [https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-152025/](https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-152025/)
+
 ## Oct 15, 2025 -- Norges Bank WP out
 The latest version of Should I stay or should I go? can be found at [https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-132025/](https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-132025/)
 
