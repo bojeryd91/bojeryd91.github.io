@@ -172,6 +172,8 @@ $$ \text{haircut} = \frac{\text{market price} - \text{value as collateral}}{\tex
 From LEO Svensson: "'Leaning against the wind' (LAW), that is, tighter monetary policy for financial-stability purposes, has costs in terms of a weaker economy with higher unemployment and lower inflation and possible benefits from a lower probability or magnitude of a (financial) crisis."
 
 
+**Loan covenant --** A loan covenant is a clause in a in a loan agreement that imposes conditions on the borrower to regulate their actions with the goal to mitigate the risk of default. E.g., a loan-to-value cap on a mortgage is a covenant. It requires that the borrower pays a share of the house. This ensures that the borrower maintains the property, preserving the value of the collateral, which reduces the lender's risk of loss.
+
 
 **Liquidity trap --** a situation when monetary policy is ineffective because households prefer to save in liquid assets (cash, deposit accounts) and lowering interest rates does not change that. E.g., if savers anticipate rising future interest rates they will avoid bonds (rate increases is equivalent to a falling bond price).
 
