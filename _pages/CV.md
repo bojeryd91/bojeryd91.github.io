@@ -5,7 +5,7 @@ featured_image: /images/germany.jpg
 ---
 
 The below PDF viewer does not work properly on certain devices and browsers. <a href="https://www.jesperbojeryd.se/misc/CV.pdf" target="_blank">Then you can view the PDF here</a>. You can also <a href="https://github.com/bojeryd91/bojeryd91.github.io/raw/main/misc/CV.pdf#style.css?the=fonz" download>download my CV here</a>.
-<p class="cv-container">
+<div class="cv-container">
   <style>
     .cv-container {
       height: 100vh;             /* full viewport height */
@@ -28,4 +28,4 @@ The below PDF viewer does not work properly on certain devices and browsers. <a 
     frameborder="0"
     allowfullscreen
   ></iframe>
-</p>
+</div>
