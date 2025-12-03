@@ -8,16 +8,16 @@ The below PDF viewer does not work properly on certain devices and browsers. <a 
 <div class="cv-container">
   <style>
     .cv-container {
-      height: 100vh;             /* full viewport height */
+      height: min(1070px, 85vh);  /* 870px if possible, otherwise fill remaining space */
       display: flex;
-      justify-content: center;   /* center horizontally */
+      align-items: center;       /* Center the content */
       flex-direction: column;
     }
 
     .cv-iframe {
       width: 100%;
       max-width: 900px;          /* optional: limit width so it's not too wide */
-      height: min(870px, 100%);  /* 870px if possible, otherwise fill remaining space */
+      height: min(1070px, 100%);  /* 870px if possible, otherwise fill remaining space */
       border: none;
     }
   </style>
