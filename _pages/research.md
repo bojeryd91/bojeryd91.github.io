@@ -7,7 +7,7 @@ featured_image: /images/headshot1.jpg
 
 # Working papers
 
-# [Should I stay or should I go? The role of housing in understanding limited inter-regional worker mobility](https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-132025/)
+## [Should I stay or should I go? The role of housing in understanding limited inter-regional worker mobility](https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-132025/)
 
 Link [here](https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-132025/)
 
