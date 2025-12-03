@@ -11,7 +11,6 @@ The below PDF viewer does not work properly on certain devices and browsers. <a 
       height: 100vh;             /* full viewport height */
       display: flex;
       justify-content: center;   /* center horizontally */
-      align-items: center;       /* center vertically if iframe is shorter */
       flex-direction: column;
     }
 
