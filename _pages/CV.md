@@ -18,7 +18,7 @@ The below PDF viewer does not work properly on certain devices and browsers. <a 
     .cv-iframe {
       width: 100%;
       max-width: 900px;          /* optional: limit width so it's not too wide */
-      height: min(870px, 100%);  /* 870px if possible, otherwise fill remaining space */
+      height: max(870px, 100%);  /* 870px if possible, otherwise fill remaining space */
       border: none;
     }
   </style>
