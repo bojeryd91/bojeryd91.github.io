@@ -20,6 +20,9 @@ I am a postdoc at Stockholm University, Department of Economics, doing research 
 
 #  Recent updates:
 
+## Dec 7, 2025 -- Housing wealth paper accepted at the JME!
+After hard work from our team and great feedback from referees and editors, we finally have an accepted article in the JME. Keep an eye out for ``The housing wealth effect: Quasi-experimental evidence'' in print.
+
 ## Nov 11, 2025 -- Another Norges Bank WP :D
 My great co-authors and I have put together a WP of one of my dissertation chapters: What do 12 billion card transactions say about house prices and consumption? Check it out at [https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-152025/](https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-152025/)
 
@@ -27,7 +30,7 @@ My great co-authors and I have put together a WP of one of my dissertation chapt
 The latest version of Should I stay or should I go? can be found at [https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-132025/](https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-132025/)
 
 ## Jan 24, 2025 -- Revise and resubmit at the Journal of Monetary Economics
-My paper with Björn, Dany, and Roine -- The housing wealth effect: Evidence from quasi-experimental evidence -- is R&R at the JME. Let's dig in!
+My paper with Björn, Dany, and Roine -- The housing wealth effect: Quasi-experimental evidence -- is R&R at the JME. Let's dig in!
 
 ## Dec 16, 2024 -- Wallander post-doc
 Today I was notified on the positive outcome of my application to the Wallander post-doc, financed by Handelsbankens forskningsstiftelser. This provides me of three more years of research funding and I am very excited for this opportunity.
