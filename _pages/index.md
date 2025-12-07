@@ -21,7 +21,7 @@ I am a postdoc at Stockholm University, Department of Economics, doing research 
 #  Recent updates:
 
 ## Dec 7, 2025 -- Housing wealth paper accepted at the JME!
-After hard work from our team and great feedback from referees and editors, we finally have an accepted article in the JME. Keep an eye out for ``The housing wealth effect: Quasi-experimental evidence'' in print.
+After hard work from our team and great feedback from referees and editors, we finally have an accepted article in the JME. Keep an eye out for "The housing wealth effect: Quasi-experimental evidence" in print.
 
 ## Nov 11, 2025 -- Another Norges Bank WP :D
 My great co-authors and I have put together a WP of one of my dissertation chapters: What do 12 billion card transactions say about house prices and consumption? Check it out at [https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-152025/](https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-152025/)
