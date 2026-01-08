@@ -20,6 +20,9 @@ I am a postdoc at Stockholm University, Department of Economics, doing research 
 
 #  Recent updates:
 
+## Jan 8, 2026 -- Upcoming presentations
+Around the change of the month, I'll go to Växjö (Jan 29) and Jönköping (Feb 2) to present.
+
 ## Dec 7, 2025 -- Housing wealth paper accepted at the JME!
 After hard work from our team and great feedback from referees and editors, we finally have an accepted article in the JME. Keep an eye out for "The housing wealth effect: Quasi-experimental evidence" in print.
 
