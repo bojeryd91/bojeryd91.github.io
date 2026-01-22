@@ -1,7 +1,6 @@
 ---
 title: Jesper Böjeryd
-subtitle: If you wonder about the pronunciation: [Yesper(-day) Bɜ-yɛ-reed] <a href="/about.md" target="_blank">click to open the extarnal tab</a>
-description: My research website.
+subtitle: "If you wonder about the pronunciation: [Yesper(-day) Bɜ-yɛ-reed]"
 featured_image: /images/headshot1.jpg
 ---
 
