@@ -1,6 +1,6 @@
 ---
 title: Jesper Böjeryd
-subtitle: "If you wonder about the pronunciation: [Yesper(-day) Bɜ-yɛ-reed]({{ '/about/#pronounciation-guide' | relative_url }})"
+subtitle: "If you wonder about the pronunciation: [Yesper(-day) Bɜ-yɛ-reed]"
 description: My research website.
 featured_image: /images/headshot1.jpg
 ---
