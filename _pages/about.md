@@ -14,6 +14,9 @@ I complement my empirical work with structural models to illustrate mechanisms a
 
 My free time I spend hiking and cooking. For longer breaks, I go out to Stockholm's archipelago and my hometown Karlstad, and at least once a year I will head north with my backpack and tent to trekk. On my freetime I focus on staying in touch with friends and nature, exercising, and occasionally playing the trombone.
 
+&nbsp;  
+
+## Pronounciation guide
 My Swedish family name turns out to be difficult to pronounce, so here’s a guide to an English approximation.
 
 **Intermediate level:** Split it up into Boy-ɛ-reed, where ɛ is as in ''sell''.
