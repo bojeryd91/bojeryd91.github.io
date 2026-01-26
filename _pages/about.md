@@ -23,4 +23,6 @@ My Swedish family name turns out to be difficult to pronounce, so here’s a gui
 
 **Advanced level:** Split up by Bɜ-yɛ-reed, where Bɜ is as in ''bird''
 
+**Swedish level:** Bœ-jɛ-ryːd
+
 Jesper is pronounced Yes-per, as in ''yes**p**erday'' -- but I don't mind **J**esper.
