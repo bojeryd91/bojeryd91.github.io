@@ -1,6 +1,6 @@
 ---
 title: Jesper Böjeryd
-subtitle: If you wonder about the pronunciation: [Yesper(-day) B'ɜ'-y'ɛ'-reed]. See \"About\" for more details
+subtitle: Hej
 featured_image: /images/headshot1.jpg
 ---
 
