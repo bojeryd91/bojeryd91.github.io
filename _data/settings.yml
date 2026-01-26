@@ -18,8 +18,8 @@ menu_settings:
       url: '/cv'
     - title: 'Teaching'
       url: '/teaching'
-    - title: 'About'
-      url: '/about'
+    - title: 'About me'
+      url: '/about-me'
     - title: 'Blog'
       url: '/blog/'
 
