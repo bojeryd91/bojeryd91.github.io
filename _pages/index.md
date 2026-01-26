@@ -1,6 +1,6 @@
 ---
 title: Jesper Böjeryd
-subtitle: If you wonder about the pronunciation: 
+subtitle: If you wonder about the pronunciation
 featured_image: /images/headshot1.jpg
 ---
 
