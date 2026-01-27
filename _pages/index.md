@@ -20,11 +20,14 @@ I am a postdoc at Stockholm University, Department of Economics, doing research 
 
 #  Recent updates:
 
+## Jan 27, 2026 -- The Bromma paper available online
+We went through a couple of rounds of formatting the paper, but now my housing wealth paper with Björn, Dany, and Roine is finally ready for the printer. Check it out at [the Journal of Monetary Economcs](https://www.sciencedirect.com/science/article/pii/S0304393226000073?via%3Dihub#/)
+
 ## Jan 8, 2026 -- Upcoming presentations
 Around the change of the month, I'll go to Växjö (Jan 29) and Jönköping (Feb 2) to present.
 
 ## Dec 7, 2025 -- Housing wealth paper accepted at the JME!
-After hard work from our team and great feedback from referees and editors, we finally have an accepted article in the JME. Keep an eye out for "The housing wealth effect: Quasi-experimental evidence" in print.
+After hard work from our team and great feedback from referees and editors, we finally have an accepted article in the JME. Keep an eye out for ''The housing wealth effect: Quasi-experimental evidence'' in print.
 
 ## Nov 11, 2025 -- Another Norges Bank WP :D
 My great co-authors and I have put together a WP of one of my dissertation chapters: What do 12 billion card transactions say about house prices and consumption? Check it out at [https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-152025/](https://www.norges-bank.no/en/news-events/publications/Working-Papers/2025/wp-152025/)
