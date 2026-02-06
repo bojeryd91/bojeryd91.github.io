@@ -21,7 +21,7 @@ I am a postdoc at Stockholm University, Department of Economics, doing research 
 #  Recent updates:
 
 ## Jan 27, 2026 -- The Bromma paper available online
-We went through a couple of rounds of formatting the paper, but now my housing wealth paper with Björn, Dany, and Roine is finally ready for the printer. Check it out at [the Journal of Monetary Economcs](https://www.sciencedirect.com/science/article/pii/S0304393226000073?via%3Dihub#/)
+We went through a couple of rounds of formatting the paper, but now my housing wealth paper with Björn, Dany, and Roine is finally ready for the printer. Check it out at [Journal of Monetary Economcs](https://www.sciencedirect.com/science/article/pii/S0304393226000073?via%3Dihub#/)
 
 ## Jan 8, 2026 -- Upcoming presentations
 Around the change of the month, I'll go to Växjö (Jan 29) and Jönköping (Feb 2) to present.
