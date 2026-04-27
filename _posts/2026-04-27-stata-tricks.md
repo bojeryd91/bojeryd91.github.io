@@ -1,6 +1,6 @@
 ---
 title: 'Stata patterns'
-date: 2026-04-07 14:24:00
+date: 2026-04-27 14:24:00
 excerpt: Stata tricks and patterns I keep forgetting
 ---
 
