@@ -8,6 +8,7 @@ There are some Stata patterns I keep having to search on Google over and over. I
 
 ## List all files in a folder with a certain name pattern
 local filelist : dir "folder-path" files "name-pattern-*.dta", respectcase // Without the option, file name will be displayed wrong
-foreach file in `filelist' {
-  Here it goes ...
+
+foreach file in `filelist' {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Here it goes ...<br>
 }
