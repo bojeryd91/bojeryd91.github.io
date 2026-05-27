@@ -20,6 +20,9 @@ I am a postdoc at Stockholm University, Department of Economics, doing research 
 
 #  Recent updates:
 
+## May 27, 2026 -- Op-ed in Svenska Dagbladet
+Swedish newspaper SvD published my op-ed about some potential costs for Sweden in joining the Euro, which has been discussed the last half year [link to SvD](https://www.svd.se/a/JOlvxb/euro-eller-krona-blunda-inte-for-eurons-risker-skriver-forskare)
+
 ## Jan 27, 2026 -- The Bromma paper available online
 We went through a couple of rounds of formatting the paper, but now my housing wealth paper with Björn, Dany, and Roine is finally ready for the printer. Check it out at [Journal of Monetary Economics](https://www.sciencedirect.com/science/article/pii/S0304393226000073?via%3Dihub#/)
 
