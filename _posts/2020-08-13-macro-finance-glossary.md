@@ -59,6 +59,7 @@ When a bigger investor in the money market "deposits" money in a bank, we say th
 
 **Cost-push inflation --** Rising consumer prices caused by increases in the cost of production -- i.e., cost of labor and raw materials. The concept is different from demand-driven inflation, where firms raise prices because consumers have higher willingness to pay.
 
+**Covered interest parity (CIP) --** See also ``Uncovered interest parity.'' If an investor observes two different interest rates across currencies and is able to hedge away any exchange risk using a forward contract, then the covered interest parity holds. Thus, the differences in the interest rates should equal the difference between contracts on forward and spot exchange rates.
 
 **Current account --** A country's current account represents its net transactions with the rest of the world over some period of time, often per year. It is the sum of exports of goods and services, minus imports, and the net earnings from international investments. Net transfers are also included.
 
@@ -294,7 +295,7 @@ An *ex-ante* Sharpe ratio uses expected return and predicted volatility, while t
 
 **Tobin's Q --** also known as Kaldor's v or q ratio. It is the ratio of market value to the replacement value of a company/asset. "One, the numerator, is the market valuation: the going price in the market for exchanging existing assets. The other, the denominator, is the replacement or reproduction cost: the price in the market for newly produced commodities. We believe that this ratio has considerable macroeconomic significance and usefulness, as the nexus between financial markets and markets for goods and services." (page 1--2, Asset Markets and the Cost of Capital, Brainard & Tobin, 1976.)
 
-
+**Uncovered interest parity (UIP) --** If you can borrow at different risk-free interest rates in two different currencies, then theory predicts that the difference in the expected return on the currencies should equal the difference in current interest rates. Otherwise, there is an arbitrage opportunity. In the case when the differences equal, the uncovered interest parity holds.
 
 **Wholesale funding --** In contrast to retail funding, wholesale funding is sourced from big investors in the money market. These are usually local governments, insurance companies, and other institutional investors.
 
