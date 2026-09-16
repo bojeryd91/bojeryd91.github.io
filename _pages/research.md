@@ -33,23 +33,29 @@ Following the oil price plunge of 2014, local income and home prices fell in the
 
 #  Work in progress
 
-## [Heterogeneous effects of QE on corporate bonds and firm outcomes](http://www.adambaybutt.org/uploads/1/2/4/9/124972193/baybutt_bojeryd-2021-qe_and_firms.pdf), with [Adam Baybutt](http://www.adambaybutt.org/)
-Does lowering corporate bond rates by QE in itself stimulate firm investment and other real outcomes? By an event-time approach with TRACE data, we try to disentangle channels of large-scale asset purchases to the firm side of the U.S. economy.
-
-Link [here](http://www.adambaybutt.org/uploads/1/2/4/9/124972193/baybutt_bojeryd-2021-qe_and_firms.pdf)
-
 ## Measuring household expenditures: Digital transactions versus imputed expenditures, with [Knut Are Aastveit](https://www.norges-bank.no/en/topics/Research/economists/Aastveit-Knut-Are/), [Andreas Fagereng](https://sites.google.com/site/andreasfagereng/), [Luigi Pistaferri](https://sites.google.com/view/pistaferri/home), [Kasper Roszbach](https://sites.google.com/view/kasperroszbach)
 In countries with wealth and tax registries, household expenditures can be imputed using the budget constraint method (see, for example, Browning and Leth-Sorensen, 2003). However, during certain life events such as household splits and mergers, housing purchases, or other large financial transactions, or for specific types of workers such as business owners, there is a risk of measurement errors that are not well understood. In this study, we compare the budget constraint method to another source of administrative data: digital payments and transfers in Norway. The goal is to compare the two measures of household expenditures and see when they agree across households and identify situations when the methodologies differ.
 
 
-## Car purchases, indebtedness and monetary policy
-Using the universe of car transactions matched to annual census data in Sweden, I study how the cash-flow channel of monetary policy affects households’ decisions to buy cars. Draft to come soon.
+## The anatomy of monetary stimulus of durable goods demand, with [Hedda Thorell](https://sites.google.com/view/heddathorell) and [Roine Vestman](https://roinevestman.com/)
+Using the universe of Swedish car transactions matched to rich administrative data, we study the heterogeneous monetary policy transmission to households' car purchases.
+
+The cyclical nature of durable goods in general, and cars in particular, make them a natural focus for economic policies attempting to stabilize household expenditure and ultimately aggregate demand. Using the universe of car transactions in Sweden during 1999--2019, matched to administrative data with information on the buyers and sellers, this paper documents new facts about the effects of monetary policy on car expenditure. Following a monetary expansion, we find that the aggregate rise in car expenditures is driven mostly by the extensive margin. The rise in the extensive margin lasts for three years and is followed by three years of below-trend car purchases, which reduces the cumulative response by 49 percent relative to its peak. Further, the top income-quintile accounts for 74 percent of the car-spending response, driven by purchases of new cars.
 
 <!---
 ## How environmental tax policy influences car purchases, with [Björn Tyrefors](https://www.ifn.se/forskare/ifn-forskare/bjorn-tyrefors/) and [Roine Vestman](https://roinevestman.com/)
 The Swedish government has over the late 2010s and early 2020s used the bonus-malus system to encourage the purchases of fuel-efficient cars. The cutoffs are adjusted from time to time and was in 2022 overnight abruptly in-part abolished. In the Swedish motor vehicle registry we observe day-by-day transactions of each car, and we use this to analyze how car buyers respond to these changes and their environmental impact, and how buyers substitute between used, new, and different fuel-efficient cars. We also study the welfare transfer between different types of buyers, induced by the price sorting of fuel efficiency.
 --->
 
+## From monetary policy to household demand: the role of housing transactions, with [Mathias Klein](https://sites.google.com/site/mathiaswklein/), [Nils Landén Mammos](https://sites.google.com/view/nilslandenmammos), and [Roine Vestman](https://roinevestman.com/)
+
+We study whether housing transactions are an important monetary policy transmission channel. Using Swedish administrative data that combine household registers with universe-level information on housing and car transactions, we document three results. First, contractionary monetary policy shocks reduce both durable expenditure and housing-market activity: a 25 basis point tightening lowers durable spending by about 5% after eight quarters, with cars and home-related goods accounting for the bulk of the durable response, and reduces housing transactions by about 4% within a year. Second, at the household level, housing transactions coincide with large increases in durable spending. Third, a decomposition of aggregate impulse responses implies that the decline in housing transactions accounts for about 10--15% of the total fall in durable expenditure after a monetary tightening. The evidence suggests that housing turnover is a quantitatively meaningful propagation margin within the housing channel of monetary policy.
+
+
+## [Heterogeneous effects of QE on corporate bonds and firm outcomes](http://www.adambaybutt.org/uploads/1/2/4/9/124972193/baybutt_bojeryd-2021-qe_and_firms.pdf), with [Adam Baybutt](http://www.adambaybutt.org/)
+Does lowering corporate bond rates by QE in itself stimulate firm investment and other real outcomes? By an event-time approach with TRACE data, we try to disentangle channels of large-scale asset purchases to the firm side of the U.S. economy.
+
+Link [here](http://www.adambaybutt.org/uploads/1/2/4/9/124972193/baybutt_bojeryd-2021-qe_and_firms.pdf)
 
 &nbsp;  
 #  Other
