@@ -8,6 +8,7 @@ featured_image: /images/headshot1.jpg
 ### Quantitative macroeconomics (Stockholm University, EC7218)
 - Fall 2024: <a href="https://www.jesperbojeryd.se/misc/teaching_evals/lecturer_evaluations_2024F_EC7218.pdf" target="_blank">view evaluations here</a>
 - Fall 2025: <a href="https://www.jesperbojeryd.se/misc/teaching_evals/lecturer_evaluations_2025F_EC7218.pdf" target="_blank">view evaluations here</a>
+- Fall 2026: <a href="https://www.jesperbojeryd.se/misc/teaching_evals/lecturer_evaluations_2026F_EC7218.pdf" target="_blank">view evaluations here</a>
 
 ##  Teaching assistant
 ### Statistics for economists (UCLA, Econ 41)
